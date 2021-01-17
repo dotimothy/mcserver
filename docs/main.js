@@ -56,7 +56,7 @@ function clickBedrock() {
     var place = document.getElementById("place");
     place.currentTime = 0;
     place.play();
-    spawn.innerHTML += "<img src='bedrock.png' width='75px'>";
+    spawn.innerHTML += "<img onload=\"classList.add('loaded')\" src='bedrock.png' width='75px'>";
 }
 
 function clickJava() {
@@ -64,8 +64,6 @@ function clickJava() {
     var click = document.getElementById("click");
     click.currentTime = 0;
     click.play();
-    spawn.innerHTML += "<img src='java.png' width='75px'>";
-
-    
+    spawn.innerHTML += "<img onload=\"classList.add('loaded')\" src='java.png' width='75px'>";
 }
 
