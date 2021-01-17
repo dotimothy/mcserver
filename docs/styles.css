@@ -33,7 +33,7 @@
     	opacity: 1;
     }
     body {
-    	background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url("dirt.png");
+    	background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url("grass.png");
     	image-rendering: pixelated;
     	background-size: 128px 128px;
     	opacity: 0;
