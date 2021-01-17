@@ -1,4 +1,5 @@
 function updateServer() {
+    document.body.classList.add('loaded')
     checkServer();
     getDate();
 }
