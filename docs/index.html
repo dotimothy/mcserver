@@ -3,85 +3,15 @@
 <head>
 <title>TheDoCraft</title>
 <link rel="icon" type="image/png" href="icon.png"/>
+<link rel="stylesheet" href="styles.css"/>
 <script src="main.js"></script>
 </head>
-
-<style> 
-	@font-face {
-		font-family: MC;
-		src: url("fonts/mc.otf");
-
-	}
-    * {
-        font-family: MC;
-        color: rgb(255,255,255);
-        opacity: 1;
-    }
-    h1 {
-    	font-size: 3em;
-    }
-    h2 {
-    	font-size: 2em;
-    }
-    h3 {
-    	font-size: 1.5em;
-    }
-   	h1:hover,h2:hover,h3:hover {
-    	color: rgb(150,150,150);
-    	transition: color 0.25s;
-    }
-    a {
-    	color: #1E90FF;
-    	opacity: 1;
-    	transition: opacity 0.25s;
-    }
-    a:hover {
-    	opacity: 0.5;
-    }
-    a:active {
-    	opacity: 1;
-    }
-    body {
-    	background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url("dirt.png");
-    	image-rendering: pixelated;
-    	background-size: 128px 128px;
-    	opacity: 0;
-    	transition: opacity 0.75s;
-    }
-    .loaded {
-    	opacity: 1;
-    }
-    @keyframes fadein {
-    	0% {
-    		opacity: 0;
-    	}
-    	100% {
-    		opacity: 1;
-    	}
-    }
-    #BobTD{
-    	image-rendering: auto;
-    	opacity: 1;
-    	transition: opacity 0.25;
-    }
-    #BobTD:hover {
-    	opacity: 0.6;
-    }
-    #BobTD:active {
-    	transform: translateY(2px);
-    }
-    img {
-    	opacity: 0;
-    	transition: opacity 0.125s;
-    }
-</style>
-
 
 <body onload="updateServer()">
 <h1>TheDoCraft: BobTD's Official Minecraft Server </h1>
 <img id="BobTD" width="25%" src="BobTD.png" onclick="window.location = 'https://www.youtube.com/channel/UCQtEriNSrB27GqR76112bvA?sub_confirmation=1'"/>
-<h2>Join the Bedrock Server: <a  href="#" onclick="clickBedrock()">TBD</a> </h2>
-<h2>Join the Java Server: <a href="#" onclick="clickJava()">TBD</a> </h2>
+<h2 id="Bedrock">Join the Bedrock Server (WIP): <a onclick="clickBedrock()">dorm.thedocraft.me</a> </h2>
+<h2>Join the Java Server (WIP): <a onclick="clickJava()">lab.thedocraft.me</a> </h2>
 <h2 id="time"></h2>
 <h2 id="status"></h2>
 <h3>Server Hours: 3 PM - 9 PM PST</h3>

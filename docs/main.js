@@ -54,11 +54,19 @@ function getDate() {
 }
 
 function clickBedrock() {
+    var text = document.getElementById("Bedrock");
     var spawn = document.getElementById("spawn");
     var place = document.getElementById("place");
     place.currentTime = 0;
     place.play();
     spawn.innerHTML += "<img onload=\"classList.add('loaded')\" src='bedrock.png' width='75px'>";
+    var bedrock = document.createElement("textarea");
+    document.body.appendChild(bedrock);
+    bedrock.value = "dorm.thedocraft.me";
+    bedrock.select();
+    document.execCommand("copy");
+    bedrock.remove();
+    alert("Copied Bedrock Link!");
 }
 
 function clickJava() {
@@ -67,5 +75,12 @@ function clickJava() {
     click.currentTime = 0;
     click.play();
     spawn.innerHTML += "<img onload=\"classList.add('loaded')\" src='java.png' width='75px'>";
+    var java = document.createElement("textarea");
+    document.body.appendChild(java);
+    java.value = "lab.thedocraft.me";
+    java.select();
+    document.execCommand("copy");
+    java.remove();
+    alert("Copied Bedrock Link!");
 }
 
