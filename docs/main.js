@@ -1,5 +1,5 @@
 function updateServer() {
-    document.body.classList.add('loaded')
+    document.body.classList.add('loaded');
     checkServer();
     getDate();
 }
@@ -54,12 +54,25 @@ function getDate() {
 }
 
 function clickBedrock() {
-    var text = document.getElementById("Bedrock");
-    var spawn = document.getElementById("spawn");
     var place = document.getElementById("place");
+    var spawn = document.getElementById("spawn");
     place.currentTime = 0;
     place.play();
     spawn.innerHTML += "<img onload=\"classList.add('loaded')\" src='bedrock.png' width='75px'>";
+}
+
+function clickJava() {
+    var spawn = document.getElementById("spawn");
+    var click = document.getElementById("click");
+    click.currentTime = 0;
+    click.play();
+    spawn.innerHTML += "<img onload=\"classList.add('loaded')\" src='java.png' width='75px'>";
+}
+
+function copyBedrock() {
+    var place = document.getElementById("place");
+    place.currentTime = 0;
+    place.play();
     var bedrock = document.createElement("textarea");
     document.body.appendChild(bedrock);
     bedrock.value = "dorm.thedocraft.me";
@@ -69,18 +82,16 @@ function clickBedrock() {
     alert("Copied Bedrock Link!");
 }
 
-function clickJava() {
-    var spawn = document.getElementById("spawn");
+function copyJava() {
     var click = document.getElementById("click");
     click.currentTime = 0;
     click.play();
-    spawn.innerHTML += "<img onload=\"classList.add('loaded')\" src='java.png' width='75px'>";
     var java = document.createElement("textarea");
     document.body.appendChild(java);
     java.value = "lab.thedocraft.me";
     java.select();
     document.execCommand("copy");
     java.remove();
-    alert("Copied Bedrock Link!");
+    alert("Copied Java Link!");
 }
 
