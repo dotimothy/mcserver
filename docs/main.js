@@ -3,6 +3,7 @@ function updateServer() {
     checkServer();
     getDate();
 }
+
 function checkServer() {
     var d = new Date();
     var hour = d.getHours();
