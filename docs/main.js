@@ -1,3 +1,9 @@
+document.onclick = function() {
+     var click = document.getElementById("click");
+     click.currentTime = 0;
+     click.play();
+}
+
 function updateServer() {
     document.body.classList.add('loaded');
     checkServer();
