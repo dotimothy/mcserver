@@ -7,3 +7,5 @@ Goals:
 4. Defeat Mob Room 1 
 5. Defeat Mob Room 2
 6. Decorate for Thanksgiving/ Think about ideas for sections.
+
+/tellraw @a {"rawtext":[{"text":"<BobTD123> Hi"}]}
