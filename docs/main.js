@@ -18,7 +18,7 @@ function checkServer() {
     var d = new Date();
     var hour = d.getHours();
     var status = document.getElementById("status");
-    if(hour > 21 || hour < 15) {
+    if(hour >= 21 || hour <= 15) {
         status.innerHTML = "Server Status: Offline"; 
     } 
     else {
@@ -103,5 +103,15 @@ function copyJava() {
     document.execCommand("copy");
     java.remove();
     alert("Copied Java Link!");
+}
+
+function joinBedrock() {
+    var join = document.getElementById("joinbedrock");
+    if(join.style.display == "none") {
+        join.style.display = "inline-block";
+    }
+    else {
+        join.style.display = "none";
+    }
 }
 
