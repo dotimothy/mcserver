@@ -1,0 +1,67 @@
+@font-face {
+		font-family: MC;
+		src: url("fonts/mc.otf");
+
+	}
+    * {
+        font-family: MC;
+        color: rgb(255,255,255);
+        opacity: 1;
+    }
+    h1 {
+    	font-size: 3em;
+    }
+    h2 {
+    	font-size: 2em;
+    }
+    h3 {
+    	font-size: 1.5em;
+    }
+   	h1:hover,h2:hover,h3:hover {
+    	color: rgb(150,150,150);
+    	transition: color 0.25s;
+    }
+    a {
+    	color: #1E90FF;
+    	opacity: 1;
+    	transition: opacity 0.25s;
+    }
+    a:hover {
+    	opacity: 0.5;
+    }
+    a:active {
+    	opacity: 1;
+    }
+    body {
+    	background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url("grass.png");
+    	image-rendering: pixelated;
+    	background-size: 128px 128px;
+    	opacity: 0;
+    	transition: opacity 0.75s;
+    }
+    .loaded {
+    	opacity: 1;
+    }
+    @keyframes fadein {
+    	0% {
+    		opacity: 0;
+    	}
+    	100% {
+    		opacity: 1;
+    	}
+    }
+    #BobTD{
+    	image-rendering: auto;
+    	opacity: 1;
+    	transition: opacity 0.25;
+    }
+    #BobTD:hover {
+    	opacity: 0.6;
+    }
+    #BobTD:active {
+    	transform: translateY(2px);
+    }
+    img {
+    	opacity: 0;
+    	transition: opacity 0.125s;
+    }

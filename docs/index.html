@@ -1,28 +1,19 @@
 <!DOCTYPE html>
 
 <head>
-<title>TheDoCraft</title>
-<link rel="icon" type="image/png" href="icon.png"/>
-<script src="main.js"></script>
+    <title>TheDoCraft</title>
+    <link rel="icon" type="image/png" href="icon.png"/>
+    <link rel="stylesheet" href="styles.css"/>
+    <script src="main.js"></script>
 </head>
-
-<style> 
-	@font-face {
-		font-family: MC;
-		src: url("fonts/mc.otf");
-
-	}
-    * {
-        font-family: MC;
-    }
-</style>
-
 
 <body onload="updateServer()">
 <h1>TheDoCraft: BobTD's Official Minecraft Server </h1>
-<img width="25%" src="BobTD.png"/>
-<h2>Join the Bedrock Server: <a  href="#" onclick="clickBedrock()">TBD</a> </h2>
-<h2>Join the Java Server: <a href="#" onclick="clickJava()">TBD</a> </h2>
+<img id="BobTD" width="25%" src="BobTD.png" onclick="window.location = 'https://www.youtube.com/channel/UCQtEriNSrB27GqR76112bvA?sub_confirmation=1'"/>
+<img id="joinbedrock" src="joinbedrock.PNG" style="display:none;opacity:1" width=45%>
+<h2 id="Bedrock" onmouseover="joinBedrock()" onmouseleave="joinBedrock()">Join the Bedrock Server: <a onclick="copyBedrock()">dorm.thedocraft.me</a> (Port: 32765)</h2>
+<h2 id="Java">Join the Java Server (In Maintenance): <a onclick="copyJava()">lab.thedocraft.me</a> </h2>
+<h2>No Minecraft? Try the <a onclick="playClick()" href="game.html">In-Browser Mini-Game</a>
 <h2 id="time"></h2>
 <h2 id="status"></h2>
 <h3>Server Hours: 3 PM - 9 PM PST</h3>

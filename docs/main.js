@@ -1,12 +1,24 @@
+document.onclick = function() {
+     playClick();
+}
+
+function playClick() {
+     var click = document.getElementById("click");
+     click.currentTime = 0;
+     click.play();
+}
+
 function updateServer() {
+    document.body.classList.add('loaded');
     checkServer();
     getDate();
 }
+
 function checkServer() {
     var d = new Date();
     var hour = d.getHours();
     var status = document.getElementById("status");
-    if(hour > 21 || hour < 15) {
+    if(hour >= 21 || hour <= 15) {
         status.innerHTML = "Server Status: Offline"; 
     } 
     else {
@@ -52,11 +64,11 @@ function getDate() {
 }
 
 function clickBedrock() {
-    var spawn = document.getElementById("spawn");
     var place = document.getElementById("place");
+    var spawn = document.getElementById("spawn");
     place.currentTime = 0;
     place.play();
-    spawn.innerHTML += "<img src='bedrock.png' width='75px'>";
+    spawn.innerHTML += "<img onload=\"classList.add('loaded')\" src='bedrock.png' width='75px'>";
 }
 
 function clickJava() {
@@ -64,8 +76,42 @@ function clickJava() {
     var click = document.getElementById("click");
     click.currentTime = 0;
     click.play();
-    spawn.innerHTML += "<img src='java.png' width='75px'>";
+    spawn.innerHTML += "<img onload=\"classList.add('loaded')\" src='java.png' width='75px'>";
+}
 
-    
+function copyBedrock() {
+    var place = document.getElementById("place");
+    place.currentTime = 0;
+    place.play();
+    var bedrock = document.createElement("textarea");
+    document.body.appendChild(bedrock);
+    bedrock.value = "dorm.thedocraft.me";
+    bedrock.select();
+    document.execCommand("copy");
+    bedrock.remove();
+    alert("Copied Bedrock Link!");
+}
+
+function copyJava() {
+    var click = document.getElementById("click");
+    click.currentTime = 0;
+    click.play();
+    var java = document.createElement("textarea");
+    document.body.appendChild(java);
+    java.value = "lab.thedocraft.me";
+    java.select();
+    document.execCommand("copy");
+    java.remove();
+    alert("Copied Java Link!");
+}
+
+function joinBedrock() {
+    var join = document.getElementById("joinbedrock");
+    if(join.style.display == "none") {
+        join.style.display = "inline-block";
+    }
+    else {
+        join.style.display = "none";
+    }
 }
 
