@@ -1,0 +1,1 @@
+C:\Users\SERVER-TD2020\Desktop\UPNPC\upnpc-static.exe -a 192.168.1.47 25565 25566 UDP
