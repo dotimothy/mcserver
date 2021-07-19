@@ -1,1 +1,1 @@
-C:\Users\SERVER-TD2020\Desktop\"BobTD Minecraft Server"\"Bedrock 1.17 - Timothy's UCI Dorm"\bedrock_server.exe
+C:\Users\SERVER-TD2020\Desktop\"BobTD Minecraft Server"\"Bedrock 1.17.10 - Timothy's UCI Dorm"\bedrock_server.exe
