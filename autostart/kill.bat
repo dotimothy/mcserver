@@ -1,1 +1,1 @@
->taskkill /im bedrock_server.exe /f
+taskkill /im bedrock_server.exe /f
