@@ -99,7 +99,7 @@ function copyJava() {
     click.play();
     var java = document.createElement("textarea");
     document.body.appendChild(java);
-    java.value = "lab.thedocraft.me";
+    java.value = "lab.thedocraft.me:32500";
     java.select();
     document.execCommand("copy");
     java.remove();
