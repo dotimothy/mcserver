@@ -1,8 +1,8 @@
 cd ../Worlds
-rmdir "TheDoCraft" /s /q
-mkdir "TheDoCraft"
-cd "TheDoCraft"
-xcopy C:\Users\SERVER-TD2020\Desktop\"BobTD Minecraft Server"\"Bedrock 1.18.2.03 - TheDoCraft"\worlds\"TheDoCraft" /e
+rmdir "Timothy's UCI Dorm" /s /q
+mkdir "Timothy's UCI Dorm"
+cd "Timothy's UCI Dorm"
+xcopy C:\Users\SERVER-TD2020\Desktop\"BobTD Minecraft Server"\"Bedrock 1.18.2.03 - Timothy's UCI Dorm"\worlds\"Timothy's UCI Dorm" /e
 cd ../..
 python commit.py
 cd autostart
