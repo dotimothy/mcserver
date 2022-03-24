@@ -19,7 +19,7 @@ function checkServer() {
     var hour = d.getHours();
     var day = d.getDay();
     var status = document.getElementById("status");
-    if((hour >= 21 || hour < 15) ||(day != 6 && day != 0) && 0) {
+    if((hour >= 21 || hour < 15) ||(day != 6 && day != 0) && false) {
         status.innerHTML = "Server Status: Offline"; 
     } 
     else {
