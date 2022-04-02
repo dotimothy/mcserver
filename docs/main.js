@@ -19,7 +19,8 @@ function checkServer() {
     var hour = d.getHours();
     var day = d.getDay();
     var status = document.getElementById("status");
-    if((hour >= 21 || hour < 15) ||(day != 6 && day != 0)) {
+    var breaks = false;
+    if(((hour >= 21 || hour < 15) ||(day != 6 && day != 0)) && breaks) {
         status.innerHTML = "Server Status: Offline"; 
     } 
     else {
@@ -29,11 +30,24 @@ function checkServer() {
 }
 
 function getDate() {
+//initial date
     var d = new Date();
-    var hour = d.getHours();
+
+    //localizing to PST
+    var offset = d.getTimezoneOffset()/60;
+    var delPST = offset - 7;
+    var hour = d.getHours() + delPST;
+    //puts it back if timezone is ahead
+    if(hour < 0) {
+        hour = hour + 24;
+    }
+
+    //minutes and seconds
     var minutes = d.getMinutes();
     var seconds = d.getSeconds();
     var meridiem;
+
+    //formatting to AM/PM
     var time = document.getElementById("time");
     if(minutes < 10) {
         minutes = '0' + minutes;
@@ -60,9 +74,11 @@ function getDate() {
         meridiem = "PM";
     }
 
-    time.innerHTML = "Local Server Time: " + hour + ":" +  minutes + ":" + seconds + " " + meridiem + " PST ";
-    setTimeout(getDate, 1000);
-}
+    //updating element
+    time.innerHTML = "Local Time: " + hour + ":" +  minutes + ":" + seconds + " " + meridiem + " PST ";
+    
+    //repeat
+    setTimeout(updateTime, 1000);}
 
 function clickBedrock() {
     var place = document.getElementById("place");
