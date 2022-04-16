@@ -1,0 +1,10 @@
+Aquarium: -48 29 0
+Anthems: 171 4 -117
+Center: 101 4 0
+Egg Royale: 138 4 -72
+Entrance: -10 4 0
+Globe Room: 104 4 -44
+Infinite Roller Coaster: 106 4 -102
+Jeopardy: 109 4 -32
+Server Tour: -2 4 30
+The Great Race: 99 4 -128
