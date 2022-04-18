@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "coins:tdcredcoin",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/tdcredcoin"
+			},
+			"geometry": {
+				"default": "geometry.tdcredcoin"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#a91313",
+				"overlay_color": "#dbee00"
+			}
+		}
+	}
+}

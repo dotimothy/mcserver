@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "TDC Red Coin",
+		"description": "TDC Red Coin Behavior Pack",
+		"uuid": "5f1cf25d-7a3d-4101-eb58-20600588a5f7",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["BobTD123", "almineaugustin"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.0.6"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "8388869c-7d2d-a698-8f98-6ae6dc0e0d9a",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "07ced27b-9201-d46b-2a70-8f485f8e817b",
+			"version": [1, 0, 0]
+		}
+	]
+}
