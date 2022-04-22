@@ -78,7 +78,7 @@ function getDate() {
     time.innerHTML = "Local Time: " + hour + ":" +  minutes + ":" + seconds + " " + meridiem + " PST ";
     
     //repeat
-    setTimeout(updateTime, 1000);}
+    setTimeout(getDate, 1000);}
 
 function clickBedrock() {
     var place = document.getElementById("place");
