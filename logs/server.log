@@ -24,3 +24,16 @@ NO LOG FILE! - setting up server logging...
 [2022-04-20 18:00:55:552 INFO] Server started.
 [2022-04-20 18:00:55:612 INFO] IPv4 supported, port: 19132
 [2022-04-20 18:00:55:613 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-04-21 17:10:35:808 INFO] Starting Server
+[2022-04-21 17:10:35:808 INFO] Version 1.18.12.01
+[2022-04-21 17:10:35:808 INFO] Session ID b14da722-2782-4782-8fbd-a43be72f4ed5
+[2022-04-21 17:10:35:817 INFO] Level Name: Timothy's UCI Dorm
+[2022-04-21 17:10:36:854 INFO] Game mode: 0 Survival
+[2022-04-21 17:10:36:854 INFO] Difficulty: 2 NORMAL
+[2022-04-21 17:10:41:859 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-04-21 17:10:46:172 INFO] IPv4 supported, port: 25565
+[2022-04-21 17:10:46:172 INFO] IPv6 supported, port: 25565
+[2022-04-21 17:10:47:882 INFO] Server started.
+[2022-04-21 17:10:47:944 INFO] IPv4 supported, port: 19132
+[2022-04-21 17:10:47:944 INFO] IPv6 supported, port: 19133
