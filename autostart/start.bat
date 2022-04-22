@@ -1,2 +1,3 @@
-C:\Users\SERVER-TD2020\Desktop\"BobTD Minecraft Server"\"Bedrock 1.18.12.01 - Timothy's UCI Dorm"\bedrock_server.exe >> ..\log.txt
-REM python start.py C:\Users\SERVER-TD2020\Documents\GitHub\mcserver\autostart\start.py
+@echo off 
+cd "C:\Users\SERVER-TD2020\Desktop\""BobTD Minecraft Server""\""Bedrock 1.18.12.01 - Timothy's UCI Dorm"""
+bedrock_server >> C:\Users\SERVER-TD2020\Documents\Github\mcserver\logs\server.log
