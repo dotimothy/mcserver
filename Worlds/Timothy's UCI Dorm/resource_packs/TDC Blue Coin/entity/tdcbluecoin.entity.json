@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "coins:tdcbluecoin",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/tdcbluecoin"
+			},
+			"geometry": {
+				"default": "geometry.tdcbluecoin"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#170edd",
+				"overlay_color": "#f5c836"
+			}
+		}
+	}
+}

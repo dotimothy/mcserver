@@ -43,7 +43,10 @@ while True:
             continue
             
         filename = message_split[1]
-        if(filename == "/logServer.py"):
+        if(filename == "" or filename == "/"):
+            f = open("./index.html","rb")
+            outputdata = f.read()
+        if(filename .lower()== "/logserver.py"):
             outputdata = b'Permission Denied.'
         elif(filename == "/getcwd"):
             outputdata = os.getcwd().encode()
@@ -66,6 +69,7 @@ while True:
         connectionSocket.close()     
         #Fill in end        
     except IOError:
+        print("File " + filename[1:] + " Not Found.")
         # Send response message for file not found
         connectionSocket.send(b'HTTP/1.1 404 Not Found\r\n\r\n')
         connectionSocket.send(b'<html><head></head><body><h1>404 Not Found</h1></body></html>')

@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "coins:tdceastercoin",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/tdceastercoin"
+			},
+			"geometry": {
+				"default": "geometry.tdceastercoin"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#00f1ff",
+				"overlay_color": "#d900ff"
+			}
+		}
+	}
+}
