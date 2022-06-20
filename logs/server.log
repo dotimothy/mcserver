@@ -38,3 +38,20 @@ NO LOG FILE! - setting up server logging...
 [2022-06-19 20:31:44:910 INFO] IPv6 supported, port: 19133
 [2022-06-19 20:41:03:551 INFO] Player connected: BobTD123, xuid: 2535416420269120
 [2022-06-19 20:41:18:471 INFO] Player disconnected: BobTD123, xuid: 2535416420269120
+NO LOG FILE! - setting up server logging...
+[2022-06-19 20:47:31:098 INFO] Starting Server
+[2022-06-19 20:47:31:098 INFO] Version 1.19.1.01
+[2022-06-19 20:47:31:099 INFO] Session ID d09034ac-3173-4690-8df0-b99a8ecab76f
+[2022-06-19 20:47:31:100 INFO] Level Name: Timothy's UCI Dorm
+[2022-06-19 20:47:31:102 INFO] Game mode: 2 Adventure
+[2022-06-19 20:47:31:103 INFO] Difficulty: 2 NORMAL
+[2022-06-19 20:47:31:387 INFO] Content logging enabled. Writing log to: ContentLog__Sunday__2022_June_19__20_47_31
+[2022-06-19 20:47:31:388 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-06-19 20:47:33:141 INFO] IPv4 supported, port: 25565
+[2022-06-19 20:47:33:142 INFO] IPv6 supported, port: 25565
+[2022-06-19 20:47:34:680 INFO] Server started.
+[2022-06-19 20:47:34:741 INFO] IPv4 supported, port: 19132
+[2022-06-19 20:47:34:741 INFO] IPv6 supported, port: 19133
+[2022-06-19 20:47:41:731 INFO] Player connected: BobTD123, xuid: 2535416420269120
+[2022-06-19 20:47:44:807 INFO] Player disconnected: BobTD123, xuid: 2535416420269120
+[2022-06-19 20:53:43:294 INFO] Running AutoCompaction...
