@@ -55,3 +55,1335 @@ NO LOG FILE! - setting up server logging...
 [2022-06-19 20:47:41:731 INFO] Player connected: BobTD123, xuid: 2535416420269120
 [2022-06-19 20:47:44:807 INFO] Player disconnected: BobTD123, xuid: 2535416420269120
 [2022-06-19 20:53:43:294 INFO] Running AutoCompaction...
+[2022-06-19 20:59:43:313 INFO] Running AutoCompaction...
+NO LOG FILE! - setting up server logging...
+[2022-06-20 06:52:26:856 INFO] Starting Server
+[2022-06-20 06:52:26:857 INFO] Version 1.19.1.01
+[2022-06-20 06:52:26:857 INFO] Session ID ecb57903-ceba-4dd3-917d-b27935f90f93
+[2022-06-20 06:52:26:901 INFO] Level Name: Timothy's UCI Dorm
+[2022-06-20 06:52:26:914 INFO] Game mode: 2 Adventure
+[2022-06-20 06:52:26:914 INFO] Difficulty: 2 NORMAL
+[2022-06-20 06:52:32:079 INFO] Content logging enabled. Writing log to: ContentLog__Monday__2022_June_20__06_52_32
+[2022-06-20 06:52:32:089 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-06-20 06:52:38:233 INFO] IPv4 supported, port: 25565
+[2022-06-20 06:52:38:233 INFO] IPv6 supported, port: 25565
+[2022-06-20 06:52:38:764 INFO] Server started.
+[2022-06-20 06:52:38:793 INFO] IPv4 supported, port: 19132
+[2022-06-20 06:52:38:793 INFO] IPv6 supported, port: 19133
+[2022-06-20 18:09:52:316 INFO] Player connected: BobTD123, xuid: 2535416420269120
+[2022-06-20 18:10:21:886 INFO] Player disconnected: BobTD123, xuid: 2535416420269120
+[2022-06-20 18:15:55:072 INFO] Running AutoCompaction...
+[2022-06-20 18:16:36:847 INFO] Player connected: BobTD123, xuid: 2535416420269120
+[2022-06-20 18:18:29:144 INFO] Player disconnected: BobTD123, xuid: 2535416420269120
+[2022-06-20 18:22:38:424 INFO] Running AutoCompaction...
+[2022-06-20 18:28:39:466 INFO] Running AutoCompaction...
+[2022-06-20 18:34:39:481 INFO] Running AutoCompaction...
+[2022-06-20 18:40:39:496 INFO] Running AutoCompaction...
+[2022-06-20 18:46:40:398 INFO] Running AutoCompaction...
+[2022-06-20 18:52:40:413 INFO] Running AutoCompaction...
+[2022-06-20 18:58:40:426 INFO] Running AutoCompaction...
+[2022-06-20 19:04:40:443 INFO] Running AutoCompaction...
+[2022-06-20 19:10:42:868 INFO] Running AutoCompaction...
+[2022-06-20 19:16:42:879 INFO] Running AutoCompaction...
+[2022-06-20 19:22:42:888 INFO] Running AutoCompaction...
+[2022-06-20 19:28:42:894 INFO] Running AutoCompaction...
+[2022-06-20 19:34:43:326 INFO] Running AutoCompaction...
+[2022-06-20 19:40:43:340 INFO] Running AutoCompaction...
+[2022-06-20 19:46:43:351 INFO] Running AutoCompaction...
+[2022-06-20 19:52:43:359 INFO] Running AutoCompaction...
+[2022-06-20 19:58:45:786 INFO] Running AutoCompaction...
+[2022-06-20 20:04:45:799 INFO] Running AutoCompaction...
+[2022-06-20 20:10:45:807 INFO] Running AutoCompaction...
+[2022-06-20 20:16:45:825 INFO] Running AutoCompaction...
+[2022-06-20 20:22:46:230 INFO] Running AutoCompaction...
+[2022-06-20 20:28:46:245 INFO] Running AutoCompaction...
+[2022-06-20 20:34:46:256 INFO] Running AutoCompaction...
+[2022-06-20 20:40:46:265 INFO] Running AutoCompaction...
+[2022-06-20 20:46:48:669 INFO] Running AutoCompaction...
+[2022-06-20 20:52:48:679 INFO] Running AutoCompaction...
+[2022-06-20 20:58:48:687 INFO] Running AutoCompaction...
+NO LOG FILE! - setting up server logging...
+[2022-06-21 12:00:54:576 INFO] Starting Server
+[2022-06-21 12:00:54:604 INFO] Version 1.19.1.01
+[2022-06-21 12:00:54:605 INFO] Session ID 69571348-6a8e-49ff-b095-f2cd8ca58ef8
+[2022-06-21 12:00:54:628 INFO] Level Name: Timothy's UCI Dorm
+[2022-06-21 12:00:55:884 INFO] Game mode: 2 Adventure
+[2022-06-21 12:00:55:884 INFO] Difficulty: 2 NORMAL
+[2022-06-21 12:00:58:163 INFO] Content logging enabled. Writing log to: ContentLog__Tuesday__2022_June_21__12_00_58
+[2022-06-21 12:00:58:171 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-06-21 12:01:03:671 INFO] IPv4 supported, port: 25565
+[2022-06-21 12:01:03:671 INFO] IPv6 supported, port: 25565
+[2022-06-21 12:01:04:325 INFO] Server started.
+[2022-06-21 12:01:04:390 INFO] IPv4 supported, port: 19132
+[2022-06-21 12:01:04:391 INFO] IPv6 supported, port: 19133
+[2022-06-21 12:07:02:960 INFO] Running AutoCompaction...
+[2022-06-21 12:13:02:970 INFO] Running AutoCompaction...
+[2022-06-21 12:19:02:972 INFO] Running AutoCompaction...
+[2022-06-21 12:25:02:988 INFO] Running AutoCompaction...
+[2022-06-21 12:31:02:004 INFO] Running AutoCompaction...
+[2022-06-21 12:37:02:008 INFO] Running AutoCompaction...
+[2022-06-21 12:43:01:025 INFO] Running AutoCompaction...
+[2022-06-21 12:49:01:031 INFO] Running AutoCompaction...
+[2022-06-21 12:55:01:036 INFO] Running AutoCompaction...
+[2022-06-21 13:01:01:042 INFO] Running AutoCompaction...
+[2022-06-21 13:07:01:056 INFO] Running AutoCompaction...
+[2022-06-21 13:13:01:067 INFO] Running AutoCompaction...
+[2022-06-21 13:19:01:079 INFO] Running AutoCompaction...
+[2022-06-21 13:25:01:082 INFO] Running AutoCompaction...
+[2022-06-21 13:31:01:088 INFO] Running AutoCompaction...
+[2022-06-21 13:37:01:092 INFO] Running AutoCompaction...
+[2022-06-21 13:43:01:108 INFO] Running AutoCompaction...
+[2022-06-21 13:49:01:118 INFO] Running AutoCompaction...
+[2022-06-21 13:55:01:123 INFO] Running AutoCompaction...
+[2022-06-21 14:01:01:126 INFO] Running AutoCompaction...
+[2022-06-21 14:07:01:128 INFO] Running AutoCompaction...
+[2022-06-21 14:13:01:144 INFO] Running AutoCompaction...
+[2022-06-21 14:19:01:147 INFO] Running AutoCompaction...
+[2022-06-21 14:25:01:149 INFO] Running AutoCompaction...
+[2022-06-21 14:31:01:166 INFO] Running AutoCompaction...
+[2022-06-21 14:37:01:169 INFO] Running AutoCompaction...
+[2022-06-21 14:43:01:181 INFO] Running AutoCompaction...
+[2022-06-21 14:49:01:185 INFO] Running AutoCompaction...
+[2022-06-21 14:55:01:187 INFO] Running AutoCompaction...
+[2022-06-21 15:01:01:204 INFO] Running AutoCompaction...
+[2022-06-21 15:07:01:217 INFO] Running AutoCompaction...
+[2022-06-21 15:13:01:221 INFO] Running AutoCompaction...
+[2022-06-21 15:19:01:227 INFO] Running AutoCompaction...
+[2022-06-21 15:25:01:241 INFO] Running AutoCompaction...
+[2022-06-21 15:31:01:256 INFO] Running AutoCompaction...
+[2022-06-21 15:37:01:270 INFO] Running AutoCompaction...
+[2022-06-21 15:43:01:285 INFO] Running AutoCompaction...
+[2022-06-21 15:49:01:290 INFO] Running AutoCompaction...
+[2022-06-21 15:55:01:307 INFO] Running AutoCompaction...
+[2022-06-21 16:01:01:317 INFO] Running AutoCompaction...
+[2022-06-21 16:07:01:334 INFO] Running AutoCompaction...
+[2022-06-21 16:13:01:345 INFO] Running AutoCompaction...
+[2022-06-21 16:19:01:355 INFO] Running AutoCompaction...
+[2022-06-21 16:25:01:370 INFO] Running AutoCompaction...
+[2022-06-21 16:31:01:381 INFO] Running AutoCompaction...
+[2022-06-21 16:37:01:391 INFO] Running AutoCompaction...
+[2022-06-21 16:43:01:408 INFO] Running AutoCompaction...
+[2022-06-21 16:49:02:419 INFO] Running AutoCompaction...
+[2022-06-21 16:55:02:426 INFO] Running AutoCompaction...
+[2022-06-21 17:01:02:434 INFO] Running AutoCompaction...
+[2022-06-21 17:07:02:438 INFO] Running AutoCompaction...
+[2022-06-21 17:13:02:450 INFO] Running AutoCompaction...
+[2022-06-21 17:19:02:455 INFO] Running AutoCompaction...
+[2022-06-21 17:25:02:462 INFO] Running AutoCompaction...
+[2022-06-21 17:31:02:475 INFO] Running AutoCompaction...
+[2022-06-21 17:37:02:477 INFO] Running AutoCompaction...
+[2022-06-21 17:43:02:491 INFO] Running AutoCompaction...
+[2022-06-21 17:49:02:505 INFO] Running AutoCompaction...
+[2022-06-21 17:55:02:520 INFO] Running AutoCompaction...
+[2022-06-21 18:01:02:534 INFO] Running AutoCompaction...
+[2022-06-21 18:07:02:545 INFO] Running AutoCompaction...
+[2022-06-21 18:13:02:560 INFO] Running AutoCompaction...
+[2022-06-21 18:19:02:573 INFO] Running AutoCompaction...
+[2022-06-21 18:25:02:582 INFO] Running AutoCompaction...
+[2022-06-21 18:31:02:586 INFO] Running AutoCompaction...
+[2022-06-21 18:37:02:590 INFO] Running AutoCompaction...
+[2022-06-21 18:43:02:604 INFO] Running AutoCompaction...
+[2022-06-21 18:49:02:620 INFO] Running AutoCompaction...
+[2022-06-21 18:55:02:631 INFO] Running AutoCompaction...
+[2022-06-21 19:01:02:641 INFO] Running AutoCompaction...
+[2022-06-21 19:07:02:645 INFO] Running AutoCompaction...
+[2022-06-21 19:13:02:650 INFO] Running AutoCompaction...
+[2022-06-21 19:19:02:664 INFO] Running AutoCompaction...
+[2022-06-21 19:25:02:680 INFO] Running AutoCompaction...
+[2022-06-21 19:31:02:690 INFO] Running AutoCompaction...
+[2022-06-21 19:37:02:695 INFO] Running AutoCompaction...
+[2022-06-21 19:43:02:703 INFO] Running AutoCompaction...
+[2022-06-21 19:49:02:708 INFO] Running AutoCompaction...
+[2022-06-21 19:55:02:714 INFO] Running AutoCompaction...
+[2022-06-21 20:01:02:719 INFO] Running AutoCompaction...
+[2022-06-21 20:07:02:729 INFO] Running AutoCompaction...
+[2022-06-21 20:13:02:734 INFO] Running AutoCompaction...
+[2022-06-21 20:19:02:738 INFO] Running AutoCompaction...
+[2022-06-21 20:25:02:741 INFO] Running AutoCompaction...
+[2022-06-21 20:31:02:745 INFO] Running AutoCompaction...
+[2022-06-21 20:37:02:763 INFO] Running AutoCompaction...
+[2022-06-21 20:43:02:775 INFO] Running AutoCompaction...
+[2022-06-21 20:49:02:781 INFO] Running AutoCompaction...
+[2022-06-21 20:55:02:798 INFO] Running AutoCompaction...
+NO LOG FILE! - setting up server logging...
+[2022-06-22 06:57:52:009 INFO] Starting Server
+[2022-06-22 06:57:52:010 INFO] Version 1.19.1.01
+[2022-06-22 06:57:52:010 INFO] Session ID 27a12bb0-fa37-4c72-9b4e-14d345923fef
+[2022-06-22 06:57:52:020 INFO] Level Name: Timothy's UCI Dorm
+[2022-06-22 06:57:52:055 INFO] Game mode: 2 Adventure
+[2022-06-22 06:57:52:056 INFO] Difficulty: 2 NORMAL
+[2022-06-22 06:57:53:595 INFO] Content logging enabled. Writing log to: ContentLog__Wednesday__2022_June_22__06_57_53
+[2022-06-22 06:57:53:627 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-06-22 06:57:57:738 INFO] IPv4 supported, port: 25565
+[2022-06-22 06:57:57:738 INFO] IPv6 supported, port: 25565
+[2022-06-22 06:57:58:254 INFO] Server started.
+[2022-06-22 06:57:58:317 INFO] IPv4 supported, port: 19132
+[2022-06-22 06:57:58:317 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-06-22 12:01:03:049 INFO] Starting Server
+[2022-06-22 12:01:03:050 INFO] Version 1.19.1.01
+[2022-06-22 12:01:03:051 INFO] Session ID d9f494c1-74d6-4322-bf8b-ad2039808246
+[2022-06-22 12:01:03:069 INFO] Level Name: Timothy's UCI Dorm
+[2022-06-22 12:01:03:146 INFO] Game mode: 2 Adventure
+[2022-06-22 12:01:03:146 INFO] Difficulty: 2 NORMAL
+[2022-06-22 12:01:08:706 INFO] Content logging enabled. Writing log to: ContentLog__Wednesday__2022_June_22__12_01_08
+[2022-06-22 12:01:08:729 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-06-22 12:01:15:298 INFO] IPv4 supported, port: 25565
+[2022-06-22 12:01:15:298 INFO] IPv6 supported, port: 25565
+[2022-06-22 12:01:16:427 INFO] Server started.
+[2022-06-22 12:01:16:475 INFO] IPv4 supported, port: 19132
+[2022-06-22 12:01:16:475 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-06-23 12:00:53:294 INFO] Starting Server
+[2022-06-23 12:00:53:295 INFO] Version 1.19.1.01
+[2022-06-23 12:00:53:295 INFO] Session ID 628635c6-a189-4804-9a5c-5b81690eeb9e
+[2022-06-23 12:00:53:426 INFO] Level Name: Timothy's UCI Dorm
+[2022-06-23 12:00:53:633 INFO] Game mode: 2 Adventure
+[2022-06-23 12:00:53:633 INFO] Difficulty: 2 NORMAL
+[2022-06-23 12:01:00:371 INFO] Content logging enabled. Writing log to: ContentLog__Thursday__2022_June_23__12_01_00
+[2022-06-23 12:01:01:845 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-06-23 12:01:05:969 INFO] IPv4 supported, port: 25565
+[2022-06-23 12:01:05:970 INFO] IPv6 supported, port: 25565
+[2022-06-23 12:01:05:482 INFO] Server started.
+[2022-06-23 12:01:05:547 INFO] IPv4 supported, port: 19132
+[2022-06-23 12:01:05:549 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-06-24 12:00:52:697 INFO] Starting Server
+[2022-06-24 12:00:52:698 INFO] Version 1.19.1.01
+[2022-06-24 12:00:52:698 INFO] Session ID 6a2ee3cf-df8f-431e-8fca-4e2f7ffbde7d
+[2022-06-24 12:00:52:731 INFO] Level Name: Timothy's UCI Dorm
+[2022-06-24 12:00:53:852 INFO] Game mode: 2 Adventure
+[2022-06-24 12:00:53:853 INFO] Difficulty: 2 NORMAL
+[2022-06-24 12:00:56:556 INFO] Content logging enabled. Writing log to: ContentLog__Friday__2022_June_24__12_00_56
+[2022-06-24 12:00:56:631 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-06-24 12:01:02:850 INFO] IPv4 supported, port: 25565
+[2022-06-24 12:01:02:850 INFO] IPv6 supported, port: 25565
+[2022-06-24 12:01:02:426 INFO] Server started.
+[2022-06-24 12:01:02:498 INFO] IPv4 supported, port: 19132
+[2022-06-24 12:01:02:499 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-06-25 12:00:57:456 INFO] Starting Server
+[2022-06-25 12:00:57:472 INFO] Version 1.19.1.01
+[2022-06-25 12:00:57:472 INFO] Session ID 480dc33b-97f9-4664-a8bc-467515552e07
+[2022-06-25 12:00:57:480 INFO] Level Name: Timothy's UCI Dorm
+[2022-06-25 12:00:57:513 INFO] Game mode: 2 Adventure
+[2022-06-25 12:00:57:513 INFO] Difficulty: 2 NORMAL
+[2022-06-25 12:00:59:328 INFO] Content logging enabled. Writing log to: ContentLog__Saturday__2022_June_25__12_00_59
+[2022-06-25 12:00:59:673 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-06-25 12:01:05:093 INFO] IPv4 supported, port: 25565
+[2022-06-25 12:01:05:094 INFO] IPv6 supported, port: 25565
+[2022-06-25 12:01:05:804 INFO] Server started.
+[2022-06-25 12:01:06:875 INFO] IPv4 supported, port: 19132
+[2022-06-25 12:01:06:876 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-06-26 12:00:52:300 INFO] Starting Server
+[2022-06-26 12:00:52:301 INFO] Version 1.19.1.01
+[2022-06-26 12:00:52:301 INFO] Session ID d65b197a-298d-4521-a919-395c48613542
+[2022-06-26 12:00:52:308 INFO] Level Name: Timothy's UCI Dorm
+[2022-06-26 12:00:52:514 INFO] Game mode: 2 Adventure
+[2022-06-26 12:00:52:515 INFO] Difficulty: 2 NORMAL
+[2022-06-26 12:00:56:690 INFO] Content logging enabled. Writing log to: ContentLog__Sunday__2022_June_26__12_00_56
+[2022-06-26 12:00:56:699 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-06-26 12:01:02:099 INFO] IPv4 supported, port: 25565
+[2022-06-26 12:01:02:100 INFO] IPv6 supported, port: 25565
+[2022-06-26 12:01:02:752 INFO] Server started.
+[2022-06-26 12:01:02:802 INFO] IPv4 supported, port: 19132
+[2022-06-26 12:01:02:802 INFO] IPv6 supported, port: 19133
+[2022-06-26 13:31:09:441 INFO] Player connected: almineaugustin, xuid: 2535439348415240
+[2022-06-26 13:41:24:389 INFO] Running AutoCompaction...
+[2022-06-26 13:48:19:650 INFO] Running AutoCompaction...
+[2022-06-26 14:08:21:462 INFO] Running AutoCompaction...
+[2022-06-26 14:17:37:371 INFO] Running AutoCompaction...
+[2022-06-26 14:25:26:600 INFO] Running AutoCompaction...
+[2022-06-26 14:33:18:270 INFO] Running AutoCompaction...
+[2022-06-26 14:37:09:654 INFO] Player disconnected: almineaugustin, xuid: 2535439348415240
+[2022-06-26 14:39:31:441 INFO] Running AutoCompaction...
+[2022-06-26 14:45:31:489 INFO] Running AutoCompaction...
+[2022-06-26 14:51:31:503 INFO] Running AutoCompaction...
+[2022-06-26 14:57:31:509 INFO] Running AutoCompaction...
+[2022-06-26 15:03:33:476 INFO] Running AutoCompaction...
+[2022-06-26 15:09:33:494 INFO] Running AutoCompaction...
+[2022-06-26 15:15:33:497 INFO] Running AutoCompaction...
+[2022-06-26 15:21:33:510 INFO] Running AutoCompaction...
+[2022-06-26 15:27:35:987 INFO] Running AutoCompaction...
+[2022-06-26 15:33:35:994 INFO] Running AutoCompaction...
+[2022-06-26 15:39:35:007 INFO] Running AutoCompaction...
+[2022-06-26 15:45:35:022 INFO] Running AutoCompaction...
+[2022-06-26 15:51:36:419 INFO] Running AutoCompaction...
+[2022-06-26 15:57:36:435 INFO] Running AutoCompaction...
+[2022-06-26 16:03:36:446 INFO] Running AutoCompaction...
+[2022-06-26 16:09:36:453 INFO] Running AutoCompaction...
+[2022-06-26 16:15:37:865 INFO] Running AutoCompaction...
+[2022-06-26 16:21:37:882 INFO] Running AutoCompaction...
+[2022-06-26 16:27:37:900 INFO] Running AutoCompaction...
+[2022-06-26 16:33:37:912 INFO] Running AutoCompaction...
+[2022-06-26 16:39:39:323 INFO] Running AutoCompaction...
+[2022-06-26 16:45:39:330 INFO] Running AutoCompaction...
+[2022-06-26 16:51:39:338 INFO] Running AutoCompaction...
+[2022-06-26 16:57:39:351 INFO] Running AutoCompaction...
+[2022-06-26 17:03:40:770 INFO] Running AutoCompaction...
+[2022-06-26 17:09:40:787 INFO] Running AutoCompaction...
+[2022-06-26 17:15:40:795 INFO] Running AutoCompaction...
+[2022-06-26 17:21:40:802 INFO] Running AutoCompaction...
+[2022-06-26 17:27:42:208 INFO] Running AutoCompaction...
+[2022-06-26 17:33:42:221 INFO] Running AutoCompaction...
+[2022-06-26 17:39:42:225 INFO] Running AutoCompaction...
+[2022-06-26 17:45:42:231 INFO] Running AutoCompaction...
+[2022-06-26 17:51:43:647 INFO] Running AutoCompaction...
+[2022-06-26 17:57:43:657 INFO] Running AutoCompaction...
+[2022-06-26 18:03:43:668 INFO] Running AutoCompaction...
+[2022-06-26 18:09:43:677 INFO] Running AutoCompaction...
+[2022-06-26 18:15:45:079 INFO] Running AutoCompaction...
+[2022-06-26 18:21:45:089 INFO] Running AutoCompaction...
+[2022-06-26 18:26:41:663 INFO] Player connected: BobTD123, xuid: 2535416420269120
+[2022-06-26 18:27:45:100 INFO] Running AutoCompaction...
+[2022-06-26 18:28:04:248 INFO] Player disconnected: BobTD123, xuid: 2535416420269120
+[2022-06-26 18:33:47:033 INFO] Running AutoCompaction...
+[2022-06-26 18:39:47:051 INFO] Running AutoCompaction...
+[2022-06-26 18:45:47:057 INFO] Running AutoCompaction...
+[2022-06-26 18:51:47:071 INFO] Running AutoCompaction...
+[2022-06-26 18:57:49:004 INFO] Running AutoCompaction...
+[2022-06-26 19:03:49:011 INFO] Running AutoCompaction...
+[2022-06-26 19:09:49:020 INFO] Running AutoCompaction...
+[2022-06-26 19:15:49:032 INFO] Running AutoCompaction...
+[2022-06-26 19:21:50:466 INFO] Running AutoCompaction...
+[2022-06-26 19:27:50:482 INFO] Running AutoCompaction...
+[2022-06-26 19:33:50:495 INFO] Running AutoCompaction...
+[2022-06-26 19:39:50:503 INFO] Running AutoCompaction...
+[2022-06-26 19:45:52:926 INFO] Running AutoCompaction...
+[2022-06-26 19:51:52:937 INFO] Running AutoCompaction...
+[2022-06-26 19:57:52:949 INFO] Running AutoCompaction...
+[2022-06-26 20:03:52:960 INFO] Running AutoCompaction...
+[2022-06-26 20:09:53:401 INFO] Running AutoCompaction...
+[2022-06-26 20:15:53:410 INFO] Running AutoCompaction...
+[2022-06-26 20:21:53:414 INFO] Running AutoCompaction...
+[2022-06-26 20:27:53:420 INFO] Running AutoCompaction...
+[2022-06-26 20:33:54:842 INFO] Running AutoCompaction...
+[2022-06-26 20:39:54:856 INFO] Running AutoCompaction...
+[2022-06-26 20:45:54:861 INFO] Running AutoCompaction...
+[2022-06-26 20:51:54:879 INFO] Running AutoCompaction...
+[2022-06-26 20:57:56:299 INFO] Running AutoCompaction...
+NO LOG FILE! - setting up server logging...
+[2022-06-27 15:27:52:794 INFO] Starting Server
+[2022-06-27 15:27:52:796 INFO] Version 1.19.1.01
+[2022-06-27 15:27:52:796 INFO] Session ID bd22e243-e50e-43e3-a83c-54a599ef2bf7
+[2022-06-27 15:27:52:807 INFO] Level Name: Timothy's UCI Dorm
+[2022-06-27 15:27:52:826 INFO] Game mode: 2 Adventure
+[2022-06-27 15:27:52:826 INFO] Difficulty: 2 NORMAL
+[2022-06-27 15:27:54:429 INFO] Content logging enabled. Writing log to: ContentLog__Monday__2022_June_27__15_27_54
+[2022-06-27 15:27:54:440 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-06-27 15:28:00:623 INFO] IPv4 supported, port: 25565
+[2022-06-27 15:28:00:623 INFO] IPv6 supported, port: 25565
+[2022-06-27 15:28:01:160 INFO] Server started.
+[2022-06-27 15:28:01:233 INFO] IPv4 supported, port: 19132
+[2022-06-27 15:28:01:233 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-06-28 12:00:56:689 INFO] Starting Server
+[2022-06-28 12:00:56:690 INFO] Version 1.19.1.01
+[2022-06-28 12:00:56:690 INFO] Session ID d34eb9bf-55be-42e6-8016-b41abfd82e08
+[2022-06-28 12:00:56:697 INFO] Level Name: Timothy's UCI Dorm
+[2022-06-28 12:00:56:730 INFO] Game mode: 2 Adventure
+[2022-06-28 12:00:56:731 INFO] Difficulty: 2 NORMAL
+[2022-06-28 12:00:58:354 INFO] Content logging enabled. Writing log to: ContentLog__Tuesday__2022_June_28__12_00_58
+[2022-06-28 12:00:58:379 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-06-28 12:01:02:530 INFO] IPv4 supported, port: 25565
+[2022-06-28 12:01:02:530 INFO] IPv6 supported, port: 25565
+[2022-06-28 12:01:03:046 INFO] Server started.
+[2022-06-28 12:01:03:123 INFO] IPv4 supported, port: 19132
+[2022-06-28 12:01:03:123 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-06-29 12:00:50:472 INFO] Starting Server
+[2022-06-29 12:00:50:489 INFO] Version 1.19.1.01
+[2022-06-29 12:00:50:489 INFO] Session ID f5d8bab0-432a-4ea4-9a55-b898c9c2a842
+[2022-06-29 12:00:50:635 INFO] Level Name: Timothy's UCI Dorm
+[2022-06-29 12:00:50:743 INFO] Game mode: 2 Adventure
+[2022-06-29 12:00:50:743 INFO] Difficulty: 2 NORMAL
+[2022-06-29 12:00:56:372 INFO] Content logging enabled. Writing log to: ContentLog__Wednesday__2022_June_29__12_00_56
+[2022-06-29 12:00:56:382 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-06-29 12:01:00:433 INFO] IPv4 supported, port: 25565
+[2022-06-29 12:01:00:433 INFO] IPv6 supported, port: 25565
+[2022-06-29 12:01:01:031 INFO] Server started.
+[2022-06-29 12:01:01:104 INFO] IPv4 supported, port: 19132
+[2022-06-29 12:01:01:104 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-06-30 12:00:53:643 INFO] Starting Server
+[2022-06-30 12:00:53:658 INFO] Version 1.19.1.01
+[2022-06-30 12:00:53:658 INFO] Session ID 5a7fe5c1-3717-4189-a8b3-144f56365bc0
+[2022-06-30 12:00:53:726 INFO] Level Name: Timothy's UCI Dorm
+[2022-06-30 12:00:54:019 INFO] Game mode: 2 Adventure
+[2022-06-30 12:00:54:020 INFO] Difficulty: 2 NORMAL
+[2022-06-30 12:00:59:244 INFO] Content logging enabled. Writing log to: ContentLog__Thursday__2022_June_30__12_00_59
+[2022-06-30 12:00:59:302 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-06-30 12:01:04:167 INFO] IPv4 supported, port: 25565
+[2022-06-30 12:01:04:167 INFO] IPv6 supported, port: 25565
+[2022-06-30 12:01:04:771 INFO] Server started.
+[2022-06-30 12:01:05:840 INFO] IPv4 supported, port: 19132
+[2022-06-30 12:01:05:841 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-01 12:00:50:209 INFO] Starting Server
+[2022-07-01 12:00:50:211 INFO] Version 1.19.1.01
+[2022-07-01 12:00:50:212 INFO] Session ID aa4994d6-b01b-4163-82e7-ab6d311e7b2d
+[2022-07-01 12:00:50:305 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-01 12:00:50:332 INFO] Game mode: 2 Adventure
+[2022-07-01 12:00:50:333 INFO] Difficulty: 2 NORMAL
+[2022-07-01 12:00:51:394 INFO] Content logging enabled. Writing log to: ContentLog__Friday__2022_July_01__12_00_51
+[2022-07-01 12:00:51:405 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-01 12:00:54:451 INFO] IPv4 supported, port: 25565
+[2022-07-01 12:00:54:452 INFO] IPv6 supported, port: 25565
+[2022-07-01 12:00:55:964 INFO] Server started.
+[2022-07-01 12:00:55:029 INFO] IPv4 supported, port: 19132
+[2022-07-01 12:00:55:029 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-02 12:00:56:040 INFO] Starting Server
+[2022-07-02 12:00:56:041 INFO] Version 1.19.1.01
+[2022-07-02 12:00:56:041 INFO] Session ID ae3de2d7-8d42-407f-a6b6-b93535db65c8
+[2022-07-02 12:00:56:049 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-02 12:00:56:064 INFO] Game mode: 2 Adventure
+[2022-07-02 12:00:56:065 INFO] Difficulty: 2 NORMAL
+[2022-07-02 12:00:58:133 INFO] Content logging enabled. Writing log to: ContentLog__Saturday__2022_July_02__12_00_58
+[2022-07-02 12:00:58:165 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-02 12:01:04:005 INFO] IPv4 supported, port: 25565
+[2022-07-02 12:01:04:005 INFO] IPv6 supported, port: 25565
+[2022-07-02 12:01:04:635 INFO] Server started.
+[2022-07-02 12:01:04:706 INFO] IPv4 supported, port: 19132
+[2022-07-02 12:01:04:706 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-03 12:00:58:256 INFO] Starting Server
+[2022-07-03 12:00:58:258 INFO] Version 1.19.1.01
+[2022-07-03 12:00:58:258 INFO] Session ID 0b4a7070-1f8f-4a62-9455-8a3fd6a0fbd6
+[2022-07-03 12:00:58:273 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-03 12:00:58:321 INFO] Game mode: 2 Adventure
+[2022-07-03 12:00:58:322 INFO] Difficulty: 2 NORMAL
+[2022-07-03 12:00:59:255 INFO] Content logging enabled. Writing log to: ContentLog__Sunday__2022_July_03__12_00_59
+[2022-07-03 12:00:59:439 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-03 12:01:05:230 INFO] IPv4 supported, port: 25565
+[2022-07-03 12:01:05:230 INFO] IPv6 supported, port: 25565
+[2022-07-03 12:01:06:873 INFO] Server started.
+[2022-07-03 12:01:06:935 INFO] IPv4 supported, port: 19132
+[2022-07-03 12:01:06:935 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-04 11:00:31:816 INFO] Starting Server
+[2022-07-04 11:00:31:817 INFO] Version 1.19.1.01
+[2022-07-04 11:00:31:817 INFO] Session ID c5609335-92dc-4a75-a31b-ad722c3f9e07
+[2022-07-04 11:00:31:825 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-04 11:00:32:858 INFO] Game mode: 2 Adventure
+[2022-07-04 11:00:32:859 INFO] Difficulty: 2 NORMAL
+[2022-07-04 11:00:40:836 INFO] Content logging enabled. Writing log to: ContentLog__Monday__2022_July_04__11_00_40
+[2022-07-04 11:00:40:871 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-04 11:00:44:735 INFO] IPv4 supported, port: 25565
+[2022-07-04 11:00:44:735 INFO] IPv6 supported, port: 25565
+[2022-07-04 11:00:45:285 INFO] Server started.
+[2022-07-04 11:00:45:331 INFO] IPv4 supported, port: 19132
+[2022-07-04 11:00:45:331 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-04 21:11:15:730 INFO] Starting Server
+[2022-07-04 21:11:16:931 INFO] Version 1.19.1.01
+[2022-07-04 21:11:16:931 INFO] Session ID 1964122a-c921-4c83-b474-1dc5eec4b084
+[2022-07-04 21:11:16:230 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-04 21:11:17:799 INFO] Game mode: 2 Adventure
+[2022-07-04 21:11:17:800 INFO] Difficulty: 2 NORMAL
+[2022-07-04 21:11:21:731 INFO] Content logging enabled. Writing log to: ContentLog__Monday__2022_July_04__21_11_21
+[2022-07-04 21:11:21:796 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-04 21:11:27:629 INFO] IPv4 supported, port: 25565
+[2022-07-04 21:11:27:629 INFO] IPv6 supported, port: 25565
+[2022-07-04 21:11:28:194 INFO] Server started.
+[2022-07-04 21:11:28:253 INFO] IPv4 supported, port: 19132
+[2022-07-04 21:11:28:254 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-05 12:00:53:229 INFO] Starting Server
+[2022-07-05 12:00:53:242 INFO] Version 1.19.1.01
+[2022-07-05 12:00:53:243 INFO] Session ID 457cc1d3-0dc3-44fb-a15d-da3fcbaf60d5
+[2022-07-05 12:00:53:278 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-05 12:00:53:318 INFO] Game mode: 2 Adventure
+[2022-07-05 12:00:53:318 INFO] Difficulty: 2 NORMAL
+[2022-07-05 12:00:54:122 INFO] Content logging enabled. Writing log to: ContentLog__Tuesday__2022_July_05__12_00_54
+[2022-07-05 12:00:54:133 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-05 12:00:57:106 INFO] IPv4 supported, port: 25565
+[2022-07-05 12:00:57:107 INFO] IPv6 supported, port: 25565
+[2022-07-05 12:00:57:771 INFO] Server started.
+[2022-07-05 12:00:58:837 INFO] IPv4 supported, port: 19132
+[2022-07-05 12:00:58:837 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-06 12:00:57:369 INFO] Starting Server
+[2022-07-06 12:00:57:384 INFO] Version 1.19.1.01
+[2022-07-06 12:00:57:385 INFO] Session ID 43ed55f5-eec4-456d-9e05-b17eb2a73849
+[2022-07-06 12:00:57:482 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-06 12:00:57:519 INFO] Game mode: 2 Adventure
+[2022-07-06 12:00:57:519 INFO] Difficulty: 2 NORMAL
+[2022-07-06 12:00:59:477 INFO] Content logging enabled. Writing log to: ContentLog__Wednesday__2022_July_06__12_00_59
+[2022-07-06 12:00:59:489 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-06 12:01:04:066 INFO] IPv4 supported, port: 25565
+[2022-07-06 12:01:04:067 INFO] IPv6 supported, port: 25565
+[2022-07-06 12:01:04:648 INFO] Server started.
+[2022-07-06 12:01:04:709 INFO] IPv4 supported, port: 19132
+[2022-07-06 12:01:04:710 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-07 12:00:55:672 INFO] Starting Server
+[2022-07-07 12:00:55:673 INFO] Version 1.19.1.01
+[2022-07-07 12:00:55:673 INFO] Session ID 3720d3d9-d8d0-4397-b1ec-e51a08065103
+[2022-07-07 12:00:56:900 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-07 12:00:56:914 INFO] Game mode: 2 Adventure
+[2022-07-07 12:00:56:914 INFO] Difficulty: 2 NORMAL
+[2022-07-07 12:00:57:484 INFO] Content logging enabled. Writing log to: ContentLog__Thursday__2022_July_07__12_00_57
+[2022-07-07 12:00:57:494 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-07 12:01:02:824 INFO] IPv4 supported, port: 25565
+[2022-07-07 12:01:02:824 INFO] IPv6 supported, port: 25565
+[2022-07-07 12:01:03:451 INFO] Server started.
+[2022-07-07 12:01:03:498 INFO] IPv4 supported, port: 19132
+[2022-07-07 12:01:03:498 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-08 18:05:28:003 INFO] Starting Server
+[2022-07-08 18:05:28:004 INFO] Version 1.19.1.01
+[2022-07-08 18:05:28:005 INFO] Session ID 6f4e28d7-1ddb-4fd0-9ad3-f44774f498b0
+[2022-07-08 18:05:28:012 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-08 18:05:28:047 INFO] Game mode: 2 Adventure
+[2022-07-08 18:05:28:047 INFO] Difficulty: 2 NORMAL
+[2022-07-08 18:05:45:232 INFO] Content logging enabled. Writing log to: ContentLog__Friday__2022_July_08__18_05_45
+[2022-07-08 18:05:45:258 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-08 18:05:53:674 INFO] IPv4 supported, port: 25565
+[2022-07-08 18:05:53:675 INFO] IPv6 supported, port: 25565
+[2022-07-08 18:05:54:598 INFO] Server started.
+[2022-07-08 18:05:54:647 INFO] IPv4 supported, port: 19132
+[2022-07-08 18:05:54:647 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-09 15:00:51:862 INFO] Starting Server
+[2022-07-09 15:00:51:863 INFO] Version 1.19.1.01
+[2022-07-09 15:00:51:864 INFO] Session ID b435e77a-09f7-4609-9327-09fa0d4865d3
+[2022-07-09 15:00:51:911 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-09 15:00:51:174 INFO] Game mode: 2 Adventure
+[2022-07-09 15:00:51:174 INFO] Difficulty: 2 NORMAL
+[2022-07-09 15:00:57:125 INFO] Content logging enabled. Writing log to: ContentLog__Saturday__2022_July_09__15_00_57
+[2022-07-09 15:00:57:179 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-09 15:01:01:729 INFO] IPv4 supported, port: 25565
+[2022-07-09 15:01:01:729 INFO] IPv6 supported, port: 25565
+[2022-07-09 15:01:02:330 INFO] Server started.
+[2022-07-09 15:01:02:402 INFO] IPv4 supported, port: 19132
+[2022-07-09 15:01:02:402 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-10 15:00:59:494 INFO] Starting Server
+[2022-07-10 15:00:59:495 INFO] Version 1.19.1.01
+[2022-07-10 15:00:59:495 INFO] Session ID 4be746e6-26fa-49f3-9cdd-2b105162ff18
+[2022-07-10 15:00:59:529 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-10 15:00:59:623 INFO] Game mode: 2 Adventure
+[2022-07-10 15:00:59:623 INFO] Difficulty: 2 NORMAL
+[2022-07-10 15:01:01:024 INFO] Content logging enabled. Writing log to: ContentLog__Sunday__2022_July_10__15_01_01
+[2022-07-10 15:01:01:035 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-10 15:01:06:964 INFO] IPv4 supported, port: 25565
+[2022-07-10 15:01:06:965 INFO] IPv6 supported, port: 25565
+[2022-07-10 15:01:06:543 INFO] Server started.
+[2022-07-10 15:01:06:600 INFO] IPv4 supported, port: 19132
+[2022-07-10 15:01:06:600 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-10 21:05:28:196 INFO] Starting Server
+[2022-07-10 21:05:28:197 INFO] Version 1.19.1.01
+[2022-07-10 21:05:28:197 INFO] Session ID f111bea3-4a28-4038-b657-198b89256d17
+[2022-07-10 21:05:28:205 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-10 21:05:28:241 INFO] Game mode: 2 Adventure
+[2022-07-10 21:05:28:241 INFO] Difficulty: 2 NORMAL
+[2022-07-10 21:05:29:145 INFO] Content logging enabled. Writing log to: ContentLog__Sunday__2022_July_10__21_05_29
+[2022-07-10 21:05:29:157 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-10 21:05:34:873 INFO] IPv4 supported, port: 25565
+[2022-07-10 21:05:34:874 INFO] IPv6 supported, port: 25565
+[2022-07-10 21:05:34:404 INFO] Server started.
+[2022-07-10 21:05:34:469 INFO] IPv4 supported, port: 19132
+[2022-07-10 21:05:34:470 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-11 18:01:01:281 INFO] Starting Server
+[2022-07-11 18:01:01:283 INFO] Version 1.19.1.01
+[2022-07-11 18:01:01:283 INFO] Session ID 4dcf9239-f4c9-4c9a-a6f8-85b2518a269e
+[2022-07-11 18:01:01:344 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-11 18:01:01:515 INFO] Game mode: 2 Adventure
+[2022-07-11 18:01:01:515 INFO] Difficulty: 2 NORMAL
+[2022-07-11 18:01:04:304 INFO] Content logging enabled. Writing log to: ContentLog__Monday__2022_July_11__18_01_04
+[2022-07-11 18:01:04:320 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-11 18:01:33:010 INFO] IPv4 supported, port: 25565
+[2022-07-11 18:01:33:010 INFO] IPv6 supported, port: 25565
+[2022-07-11 18:01:34:726 INFO] Server started.
+[2022-07-11 18:01:35:845 INFO] IPv4 supported, port: 19132
+[2022-07-11 18:01:35:846 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-12 18:00:54:435 INFO] Starting Server
+[2022-07-12 18:00:54:436 INFO] Version 1.19.1.01
+[2022-07-12 18:00:54:437 INFO] Session ID 49c3d396-920b-48c4-8b25-8ba7549b11b5
+[2022-07-12 18:00:54:511 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-12 18:00:54:757 INFO] Game mode: 2 Adventure
+[2022-07-12 18:00:54:757 INFO] Difficulty: 2 NORMAL
+[2022-07-12 18:01:01:391 INFO] Content logging enabled. Writing log to: ContentLog__Tuesday__2022_July_12__18_01_01
+[2022-07-12 18:01:01:401 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-12 18:01:06:420 INFO] IPv4 supported, port: 25565
+[2022-07-12 18:01:06:420 INFO] IPv6 supported, port: 25565
+[2022-07-12 18:01:07:956 INFO] Server started.
+[2022-07-12 18:01:07:030 INFO] IPv4 supported, port: 19132
+[2022-07-12 18:01:07:030 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-13 18:01:11:525 INFO] Starting Server
+[2022-07-13 18:01:11:526 INFO] Version 1.19.1.01
+[2022-07-13 18:01:11:526 INFO] Session ID ba474492-6c66-4530-82df-921d0ae54b67
+[2022-07-13 18:01:11:555 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-13 18:01:11:569 INFO] Game mode: 2 Adventure
+[2022-07-13 18:01:11:569 INFO] Difficulty: 2 NORMAL
+[2022-07-13 18:01:14:667 INFO] Content logging enabled. Writing log to: ContentLog__Wednesday__2022_July_13__18_01_14
+[2022-07-13 18:01:14:676 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-13 18:01:39:499 INFO] IPv4 supported, port: 25565
+[2022-07-13 18:01:39:499 INFO] IPv6 supported, port: 25565
+[2022-07-13 18:01:40:126 INFO] Server started.
+[2022-07-13 18:01:40:219 INFO] IPv4 supported, port: 19132
+[2022-07-13 18:01:40:219 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-13 22:42:14:901 INFO] Starting Server
+[2022-07-13 22:42:14:956 INFO] Version 1.19.1.01
+[2022-07-13 22:42:14:956 INFO] Session ID 9abdc0ce-c8da-4612-a1fa-887a2104f0c1
+[2022-07-13 22:42:14:992 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-13 22:42:14:040 INFO] Game mode: 2 Adventure
+[2022-07-13 22:42:14:040 INFO] Difficulty: 2 NORMAL
+[2022-07-13 22:42:19:306 INFO] Content logging enabled. Writing log to: ContentLog__Wednesday__2022_July_13__22_42_19
+[2022-07-13 22:42:19:315 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-13 22:42:24:577 INFO] IPv4 supported, port: 25565
+[2022-07-13 22:42:24:577 INFO] IPv6 supported, port: 25565
+[2022-07-13 22:42:25:273 INFO] Server started.
+[2022-07-13 22:42:25:345 INFO] IPv4 supported, port: 19132
+[2022-07-13 22:42:25:345 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-15 15:00:51:102 INFO] Starting Server
+[2022-07-15 15:00:51:114 INFO] Version 1.19.1.01
+[2022-07-15 15:00:51:115 INFO] Session ID 27a60d60-a722-42ba-8bb5-677f56ed77c1
+[2022-07-15 15:00:51:258 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-15 15:00:51:348 INFO] Game mode: 2 Adventure
+[2022-07-15 15:00:51:348 INFO] Difficulty: 2 NORMAL
+[2022-07-15 15:00:58:015 INFO] Content logging enabled. Writing log to: ContentLog__Friday__2022_July_15__15_00_58
+[2022-07-15 15:00:58:025 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-15 15:01:03:035 INFO] IPv4 supported, port: 25565
+[2022-07-15 15:01:03:035 INFO] IPv6 supported, port: 25565
+[2022-07-15 15:01:03:647 INFO] Server started.
+[2022-07-15 15:01:03:706 INFO] IPv4 supported, port: 19132
+[2022-07-15 15:01:03:706 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-16 15:00:52:748 INFO] Starting Server
+[2022-07-16 15:00:52:763 INFO] Version 1.19.1.01
+[2022-07-16 15:00:52:764 INFO] Session ID f75dff08-9b26-4d03-885e-1ca6f1c4c21d
+[2022-07-16 15:00:53:155 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-16 15:00:53:704 INFO] Game mode: 2 Adventure
+[2022-07-16 15:00:53:704 INFO] Difficulty: 2 NORMAL
+[2022-07-16 15:00:55:918 INFO] Content logging enabled. Writing log to: ContentLog__Saturday__2022_July_16__15_00_55
+[2022-07-16 15:00:55:928 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-16 15:00:59:815 INFO] IPv4 supported, port: 25565
+[2022-07-16 15:00:59:815 INFO] IPv6 supported, port: 25565
+[2022-07-16 15:01:00:457 INFO] Server started.
+[2022-07-16 15:01:00:502 INFO] IPv4 supported, port: 19132
+[2022-07-16 15:01:00:503 INFO] IPv6 supported, port: 19133
+[2022-07-16 19:37:27:742 INFO] Player connected: BobTD321, xuid: 2535422858886646
+[2022-07-16 19:38:06:940 INFO] Player disconnected: BobTD321, xuid: 2535422858886646
+NO LOG FILE! - setting up server logging...
+[2022-07-17 11:05:07:333 INFO] Starting Server
+[2022-07-17 11:05:07:334 INFO] Version 1.19.1.01
+[2022-07-17 11:05:07:334 INFO] Session ID 21411a6c-fb9e-4e2d-a161-1b93c5fb9e4f
+[2022-07-17 11:05:07:339 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-17 11:05:07:349 INFO] Game mode: 2 Adventure
+[2022-07-17 11:05:07:349 INFO] Difficulty: 2 NORMAL
+[2022-07-17 11:05:08:718 INFO] Content logging enabled. Writing log to: ContentLog__Sunday__2022_July_17__11_05_08
+[2022-07-17 11:05:08:726 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-17 11:05:12:337 INFO] IPv4 supported, port: 25565
+[2022-07-17 11:05:12:337 INFO] IPv6 supported, port: 25565
+[2022-07-17 11:05:13:858 INFO] Server started.
+[2022-07-17 11:05:13:928 INFO] IPv4 supported, port: 19132
+[2022-07-17 11:05:13:929 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-17 15:00:53:060 INFO] Starting Server
+[2022-07-17 15:00:53:061 INFO] Version 1.19.1.01
+[2022-07-17 15:00:53:061 INFO] Session ID 67a18003-b7e8-4efb-8b57-0916aeee55e9
+[2022-07-17 15:00:53:092 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-17 15:00:53:122 INFO] Game mode: 2 Adventure
+[2022-07-17 15:00:53:123 INFO] Difficulty: 2 NORMAL
+[2022-07-17 15:00:54:372 INFO] Content logging enabled. Writing log to: ContentLog__Sunday__2022_July_17__15_00_54
+[2022-07-17 15:00:54:381 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-17 15:00:57:631 INFO] IPv4 supported, port: 25565
+[2022-07-17 15:00:57:632 INFO] IPv6 supported, port: 25565
+[2022-07-17 15:00:58:140 INFO] Server started.
+[2022-07-17 15:00:58:208 INFO] IPv4 supported, port: 19132
+[2022-07-17 15:00:58:209 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-18 18:00:55:980 INFO] Starting Server
+[2022-07-18 18:00:55:994 INFO] Version 1.19.1.01
+[2022-07-18 18:00:55:995 INFO] Session ID 3e6f49b2-e19e-4b03-96f6-be345fb81001
+[2022-07-18 18:00:55:203 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-18 18:00:55:427 INFO] Game mode: 2 Adventure
+[2022-07-18 18:00:55:427 INFO] Difficulty: 2 NORMAL
+[2022-07-18 18:00:57:047 INFO] Content logging enabled. Writing log to: ContentLog__Monday__2022_July_18__18_00_57
+[2022-07-18 18:00:57:056 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-18 18:01:02:300 INFO] IPv4 supported, port: 25565
+[2022-07-18 18:01:02:300 INFO] IPv6 supported, port: 25565
+[2022-07-18 18:01:03:967 INFO] Server started.
+[2022-07-18 18:01:03:038 INFO] IPv4 supported, port: 19132
+[2022-07-18 18:01:03:038 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-19 18:00:53:483 INFO] Starting Server
+[2022-07-19 18:00:53:507 INFO] Version 1.19.1.01
+[2022-07-19 18:00:53:507 INFO] Session ID 93479407-bad9-416d-be47-c0fee37cb926
+[2022-07-19 18:00:53:678 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-19 18:00:53:714 INFO] Game mode: 2 Adventure
+[2022-07-19 18:00:53:715 INFO] Difficulty: 2 NORMAL
+[2022-07-19 18:00:55:199 INFO] Content logging enabled. Writing log to: ContentLog__Tuesday__2022_July_19__18_00_55
+[2022-07-19 18:00:55:208 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-19 18:01:03:905 INFO] IPv4 supported, port: 25565
+[2022-07-19 18:01:03:905 INFO] IPv6 supported, port: 25565
+[2022-07-19 18:01:04:841 INFO] Server started.
+[2022-07-19 18:01:04:899 INFO] IPv4 supported, port: 19132
+[2022-07-19 18:01:04:900 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-20 18:00:54:959 INFO] Starting Server
+[2022-07-20 18:00:54:961 INFO] Version 1.19.1.01
+[2022-07-20 18:00:54:961 INFO] Session ID c6c799aa-9b52-4621-9e00-49562d020ed9
+[2022-07-20 18:00:54:988 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-20 18:00:54:099 INFO] Game mode: 2 Adventure
+[2022-07-20 18:00:54:099 INFO] Difficulty: 2 NORMAL
+[2022-07-20 18:01:01:692 INFO] Content logging enabled. Writing log to: ContentLog__Wednesday__2022_July_20__18_01_01
+[2022-07-20 18:01:01:821 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-20 18:01:07:274 INFO] IPv4 supported, port: 25565
+[2022-07-20 18:01:07:274 INFO] IPv6 supported, port: 25565
+[2022-07-20 18:01:07:829 INFO] Server started.
+[2022-07-20 18:01:08:896 INFO] IPv4 supported, port: 19132
+[2022-07-20 18:01:08:897 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-21 18:00:58:897 INFO] Starting Server
+[2022-07-21 18:00:58:936 INFO] Version 1.19.1.01
+[2022-07-21 18:00:58:936 INFO] Session ID 91a2101f-3569-48d9-a664-587bc8bf8361
+[2022-07-21 18:00:58:943 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-21 18:00:58:033 INFO] Game mode: 2 Adventure
+[2022-07-21 18:00:58:033 INFO] Difficulty: 2 NORMAL
+[2022-07-21 18:00:59:945 INFO] Content logging enabled. Writing log to: ContentLog__Thursday__2022_July_21__18_00_59
+[2022-07-21 18:00:59:954 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-21 18:01:03:606 INFO] IPv4 supported, port: 25565
+[2022-07-21 18:01:03:606 INFO] IPv6 supported, port: 25565
+[2022-07-21 18:01:04:153 INFO] Server started.
+[2022-07-21 18:01:04:218 INFO] IPv4 supported, port: 19132
+[2022-07-21 18:01:04:218 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-22 15:01:00:058 INFO] Starting Server
+[2022-07-22 15:01:00:059 INFO] Version 1.19.1.01
+[2022-07-22 15:01:00:060 INFO] Session ID e047a331-4025-4aab-8ebc-fb4db6f6bc55
+[2022-07-22 15:01:00:068 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-22 15:01:00:102 INFO] Game mode: 2 Adventure
+[2022-07-22 15:01:00:103 INFO] Difficulty: 2 NORMAL
+[2022-07-22 15:01:03:047 INFO] Content logging enabled. Writing log to: ContentLog__Friday__2022_July_22__15_01_03
+[2022-07-22 15:01:03:102 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-22 15:01:06:710 INFO] IPv4 supported, port: 25565
+[2022-07-22 15:01:06:710 INFO] IPv6 supported, port: 25565
+[2022-07-22 15:01:07:240 INFO] Server started.
+[2022-07-22 15:01:07:303 INFO] IPv4 supported, port: 19132
+[2022-07-22 15:01:07:303 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-23 15:00:48:771 INFO] Starting Server
+[2022-07-23 15:00:48:772 INFO] Version 1.19.1.01
+[2022-07-23 15:00:48:772 INFO] Session ID a4849ebd-898d-4d26-89f1-4c853911d1d1
+[2022-07-23 15:00:48:802 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-23 15:00:48:815 INFO] Game mode: 2 Adventure
+[2022-07-23 15:00:48:815 INFO] Difficulty: 2 NORMAL
+[2022-07-23 15:00:50:699 INFO] Content logging enabled. Writing log to: ContentLog__Saturday__2022_July_23__15_00_50
+[2022-07-23 15:00:51:023 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-23 15:01:00:384 INFO] IPv4 supported, port: 25565
+[2022-07-23 15:01:00:384 INFO] IPv6 supported, port: 25565
+[2022-07-23 15:01:01:226 INFO] Server started.
+[2022-07-23 15:01:01:314 INFO] IPv4 supported, port: 19132
+[2022-07-23 15:01:01:314 INFO] IPv6 supported, port: 19133
+[2022-07-23 15:49:21:518 INFO] Player connected: BobTD123, xuid: 2535416420269120
+[2022-07-23 15:49:31:743 INFO] Player disconnected: BobTD123, xuid: 2535416420269120
+[2022-07-23 15:55:23:021 INFO] Running AutoCompaction...
+[2022-07-23 16:01:23:054 INFO] Running AutoCompaction...
+[2022-07-23 16:07:23:074 INFO] Running AutoCompaction...
+[2022-07-23 16:13:23:078 INFO] Running AutoCompaction...
+[2022-07-23 16:19:25:001 INFO] Running AutoCompaction...
+[2022-07-23 16:25:25:016 INFO] Running AutoCompaction...
+[2022-07-23 16:31:25:021 INFO] Running AutoCompaction...
+[2022-07-23 16:37:25:032 INFO] Running AutoCompaction...
+[2022-07-23 16:43:27:441 INFO] Running AutoCompaction...
+[2022-07-23 16:49:27:452 INFO] Running AutoCompaction...
+[2022-07-23 16:55:27:465 INFO] Running AutoCompaction...
+[2022-07-23 17:01:27:481 INFO] Running AutoCompaction...
+[2022-07-23 17:07:28:888 INFO] Running AutoCompaction...
+[2022-07-23 17:13:28:896 INFO] Running AutoCompaction...
+[2022-07-23 17:19:28:915 INFO] Running AutoCompaction...
+[2022-07-23 17:25:28:925 INFO] Running AutoCompaction...
+[2022-07-23 17:31:30:333 INFO] Running AutoCompaction...
+[2022-07-23 17:37:30:340 INFO] Running AutoCompaction...
+[2022-07-23 17:43:30:351 INFO] Running AutoCompaction...
+[2022-07-23 17:49:30:360 INFO] Running AutoCompaction...
+[2022-07-23 17:55:31:762 INFO] Running AutoCompaction...
+[2022-07-23 18:01:31:766 INFO] Running AutoCompaction...
+[2022-07-23 18:07:31:774 INFO] Running AutoCompaction...
+[2022-07-23 18:13:31:784 INFO] Running AutoCompaction...
+[2022-07-23 18:19:33:196 INFO] Running AutoCompaction...
+[2022-07-23 18:25:33:201 INFO] Running AutoCompaction...
+[2022-07-23 18:31:33:209 INFO] Running AutoCompaction...
+[2022-07-23 18:37:33:214 INFO] Running AutoCompaction...
+[2022-07-23 18:43:34:612 INFO] Running AutoCompaction...
+[2022-07-23 18:49:34:623 INFO] Running AutoCompaction...
+[2022-07-23 18:55:34:629 INFO] Running AutoCompaction...
+[2022-07-23 19:01:34:637 INFO] Running AutoCompaction...
+[2022-07-23 19:07:35:032 INFO] Running AutoCompaction...
+[2022-07-23 19:13:35:043 INFO] Running AutoCompaction...
+[2022-07-23 19:19:35:061 INFO] Running AutoCompaction...
+[2022-07-23 19:25:35:075 INFO] Running AutoCompaction...
+[2022-07-23 19:31:37:475 INFO] Running AutoCompaction...
+[2022-07-23 19:37:37:481 INFO] Running AutoCompaction...
+[2022-07-23 19:43:37:492 INFO] Running AutoCompaction...
+[2022-07-23 19:49:37:504 INFO] Running AutoCompaction...
+[2022-07-23 19:55:38:898 INFO] Running AutoCompaction...
+[2022-07-23 20:01:38:915 INFO] Running AutoCompaction...
+[2022-07-23 20:07:38:932 INFO] Running AutoCompaction...
+[2022-07-23 20:13:38:936 INFO] Running AutoCompaction...
+[2022-07-23 20:19:40:319 INFO] Running AutoCompaction...
+[2022-07-23 20:25:40:336 INFO] Running AutoCompaction...
+[2022-07-23 20:31:40:342 INFO] Running AutoCompaction...
+[2022-07-23 20:37:40:351 INFO] Running AutoCompaction...
+[2022-07-23 20:43:41:767 INFO] Running AutoCompaction...
+[2022-07-23 20:49:41:771 INFO] Running AutoCompaction...
+[2022-07-23 20:55:41:780 INFO] Running AutoCompaction...
+NO LOG FILE! - setting up server logging...
+[2022-07-24 15:00:58:031 INFO] Starting Server
+[2022-07-24 15:00:58:033 INFO] Version 1.19.1.01
+[2022-07-24 15:00:58:033 INFO] Session ID 0dfe1f21-d086-49e6-bd71-93ea2a15f7b9
+[2022-07-24 15:00:58:040 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-24 15:00:58:127 INFO] Game mode: 2 Adventure
+[2022-07-24 15:00:58:128 INFO] Difficulty: 2 NORMAL
+[2022-07-24 15:00:59:018 INFO] Content logging enabled. Writing log to: ContentLog__Sunday__2022_July_24__15_00_59
+[2022-07-24 15:00:59:027 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-24 15:01:05:046 INFO] IPv4 supported, port: 25565
+[2022-07-24 15:01:05:046 INFO] IPv6 supported, port: 25565
+[2022-07-24 15:01:05:703 INFO] Server started.
+[2022-07-24 15:01:05:768 INFO] IPv4 supported, port: 19132
+[2022-07-24 15:01:05:768 INFO] IPv6 supported, port: 19133
+[2022-07-24 15:07:01:977 INFO] Running AutoCompaction...
+[2022-07-24 15:13:01:989 INFO] Running AutoCompaction...
+[2022-07-24 15:19:01:001 INFO] Running AutoCompaction...
+[2022-07-24 15:25:01:009 INFO] Running AutoCompaction...
+[2022-07-24 15:31:01:020 INFO] Running AutoCompaction...
+[2022-07-24 15:37:01:030 INFO] Running AutoCompaction...
+[2022-07-24 15:43:01:036 INFO] Running AutoCompaction...
+[2022-07-24 15:49:01:040 INFO] Running AutoCompaction...
+[2022-07-24 15:55:01:052 INFO] Running AutoCompaction...
+[2022-07-24 16:01:01:069 INFO] Running AutoCompaction...
+[2022-07-24 16:07:01:078 INFO] Running AutoCompaction...
+[2022-07-24 16:13:01:093 INFO] Running AutoCompaction...
+[2022-07-24 16:19:01:106 INFO] Running AutoCompaction...
+[2022-07-24 16:25:01:116 INFO] Running AutoCompaction...
+[2022-07-24 16:31:01:120 INFO] Running AutoCompaction...
+[2022-07-24 16:37:01:128 INFO] Running AutoCompaction...
+[2022-07-24 16:43:01:139 INFO] Running AutoCompaction...
+[2022-07-24 16:49:01:145 INFO] Running AutoCompaction...
+[2022-07-24 16:55:01:162 INFO] Running AutoCompaction...
+[2022-07-24 17:01:01:177 INFO] Running AutoCompaction...
+[2022-07-24 17:07:02:189 INFO] Running AutoCompaction...
+[2022-07-24 17:13:02:197 INFO] Running AutoCompaction...
+[2022-07-24 17:19:02:206 INFO] Running AutoCompaction...
+[2022-07-24 17:25:02:223 INFO] Running AutoCompaction...
+[2022-07-24 17:31:02:231 INFO] Running AutoCompaction...
+[2022-07-24 17:37:02:247 INFO] Running AutoCompaction...
+[2022-07-24 17:43:02:261 INFO] Running AutoCompaction...
+[2022-07-24 17:49:02:272 INFO] Running AutoCompaction...
+[2022-07-24 17:55:02:289 INFO] Running AutoCompaction...
+[2022-07-24 18:01:02:294 INFO] Running AutoCompaction...
+[2022-07-24 18:07:02:297 INFO] Running AutoCompaction...
+[2022-07-24 18:13:02:307 INFO] Running AutoCompaction...
+[2022-07-24 18:19:02:316 INFO] Running AutoCompaction...
+[2022-07-24 18:25:02:330 INFO] Running AutoCompaction...
+[2022-07-24 18:31:02:346 INFO] Running AutoCompaction...
+[2022-07-24 18:37:02:359 INFO] Running AutoCompaction...
+[2022-07-24 18:43:02:376 INFO] Running AutoCompaction...
+[2022-07-24 18:49:02:392 INFO] Running AutoCompaction...
+[2022-07-24 18:55:02:408 INFO] Running AutoCompaction...
+[2022-07-24 19:01:02:423 INFO] Running AutoCompaction...
+[2022-07-24 19:07:02:432 INFO] Running AutoCompaction...
+[2022-07-24 19:13:02:445 INFO] Running AutoCompaction...
+[2022-07-24 19:19:02:461 INFO] Running AutoCompaction...
+[2022-07-24 19:25:02:470 INFO] Running AutoCompaction...
+[2022-07-24 19:31:02:487 INFO] Running AutoCompaction...
+[2022-07-24 19:37:02:496 INFO] Running AutoCompaction...
+[2022-07-24 19:43:02:504 INFO] Running AutoCompaction...
+[2022-07-24 19:49:02:516 INFO] Running AutoCompaction...
+[2022-07-24 19:55:02:526 INFO] Running AutoCompaction...
+[2022-07-24 20:01:02:539 INFO] Running AutoCompaction...
+[2022-07-24 20:07:02:549 INFO] Running AutoCompaction...
+[2022-07-24 20:13:02:554 INFO] Running AutoCompaction...
+[2022-07-24 20:19:02:563 INFO] Running AutoCompaction...
+[2022-07-24 20:25:02:575 INFO] Running AutoCompaction...
+[2022-07-24 20:31:02:590 INFO] Running AutoCompaction...
+[2022-07-24 20:37:02:606 INFO] Running AutoCompaction...
+[2022-07-24 20:43:02:609 INFO] Running AutoCompaction...
+[2022-07-24 20:49:02:617 INFO] Running AutoCompaction...
+[2022-07-24 20:55:02:625 INFO] Running AutoCompaction...
+NO LOG FILE! - setting up server logging...
+[2022-07-25 18:01:01:206 INFO] Starting Server
+[2022-07-25 18:01:01:207 INFO] Version 1.19.1.01
+[2022-07-25 18:01:01:208 INFO] Session ID c0a47dfa-e207-4d82-a9fe-85f277dd9524
+[2022-07-25 18:01:01:237 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-25 18:01:01:274 INFO] Game mode: 2 Adventure
+[2022-07-25 18:01:01:275 INFO] Difficulty: 2 NORMAL
+[2022-07-25 18:01:02:518 INFO] Content logging enabled. Writing log to: ContentLog__Monday__2022_July_25__18_01_02
+[2022-07-25 18:01:02:527 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-25 18:01:07:267 INFO] IPv4 supported, port: 25565
+[2022-07-25 18:01:07:268 INFO] IPv6 supported, port: 25565
+[2022-07-25 18:01:07:821 INFO] Server started.
+[2022-07-25 18:01:08:868 INFO] IPv4 supported, port: 19132
+[2022-07-25 18:01:08:868 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-30 20:25:54:892 INFO] Starting Server
+[2022-07-30 20:25:54:893 INFO] Version 1.19.1.01
+[2022-07-30 20:25:54:893 INFO] Session ID b8f2f984-194c-4480-b5e0-6ebc287b05ea
+[2022-07-30 20:25:54:949 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-30 20:25:54:031 INFO] Game mode: 2 Adventure
+[2022-07-30 20:25:54:031 INFO] Difficulty: 2 NORMAL
+[2022-07-30 20:25:56:575 INFO] Content logging enabled. Writing log to: ContentLog__Saturday__2022_July_30__20_25_56
+[2022-07-30 20:25:56:671 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-30 20:26:03:504 INFO] IPv4 supported, port: 25565
+[2022-07-30 20:26:03:504 INFO] IPv6 supported, port: 25565
+[2022-07-30 20:26:04:170 INFO] Server started.
+[2022-07-30 20:26:04:226 INFO] IPv4 supported, port: 19132
+[2022-07-30 20:26:04:227 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-07-31 15:00:55:445 INFO] Starting Server
+[2022-07-31 15:00:55:446 INFO] Version 1.19.1.01
+[2022-07-31 15:00:55:446 INFO] Session ID 0607d88f-66c8-4412-a5cb-fddbdfa9ecb1
+[2022-07-31 15:00:55:453 INFO] Level Name: Timothy's UCI Dorm
+[2022-07-31 15:00:55:466 INFO] Game mode: 2 Adventure
+[2022-07-31 15:00:55:466 INFO] Difficulty: 2 NORMAL
+[2022-07-31 15:01:01:710 INFO] Content logging enabled. Writing log to: ContentLog__Sunday__2022_July_31__15_01_01
+[2022-07-31 15:01:01:740 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-07-31 15:01:06:105 INFO] IPv4 supported, port: 25565
+[2022-07-31 15:01:06:105 INFO] IPv6 supported, port: 25565
+[2022-07-31 15:01:06:618 INFO] Server started.
+[2022-07-31 15:01:06:683 INFO] IPv4 supported, port: 19132
+[2022-07-31 15:01:06:684 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-01 18:00:58:426 INFO] Starting Server
+[2022-08-01 18:00:58:428 INFO] Version 1.19.1.01
+[2022-08-01 18:00:58:428 INFO] Session ID 94c0d393-622c-4d0a-9bb9-039afd3a739f
+[2022-08-01 18:00:58:539 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-01 18:00:58:561 INFO] Game mode: 2 Adventure
+[2022-08-01 18:00:58:561 INFO] Difficulty: 2 NORMAL
+[2022-08-01 18:01:02:875 INFO] Content logging enabled. Writing log to: ContentLog__Monday__2022_August_01__18_01_02
+[2022-08-01 18:01:02:886 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-01 18:01:05:731 INFO] IPv4 supported, port: 25565
+[2022-08-01 18:01:05:731 INFO] IPv6 supported, port: 25565
+[2022-08-01 18:01:06:643 INFO] Server started.
+[2022-08-01 18:01:06:707 INFO] IPv4 supported, port: 19132
+[2022-08-01 18:01:06:708 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-01 23:01:56:172 INFO] Starting Server
+[2022-08-01 23:01:56:200 INFO] Version 1.19.1.01
+[2022-08-01 23:01:56:200 INFO] Session ID c008a908-ad5f-4f77-a41b-f40d2b3f0bda
+[2022-08-01 23:01:56:234 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-01 23:01:56:289 INFO] Game mode: 2 Adventure
+[2022-08-01 23:01:56:289 INFO] Difficulty: 2 NORMAL
+[2022-08-01 23:01:57:255 INFO] Content logging enabled. Writing log to: ContentLog__Monday__2022_August_01__23_01_57
+[2022-08-01 23:01:57:264 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-01 23:02:00:480 INFO] IPv4 supported, port: 25565
+[2022-08-01 23:02:00:480 INFO] IPv6 supported, port: 25565
+[2022-08-01 23:02:01:053 INFO] Server started.
+[2022-08-01 23:02:01:119 INFO] IPv4 supported, port: 19132
+[2022-08-01 23:02:01:119 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-02 18:01:08:663 INFO] Starting Server
+[2022-08-02 18:01:08:667 INFO] Version 1.19.1.01
+[2022-08-02 18:01:08:667 INFO] Session ID 9f88a044-5bc9-4e3f-85d8-0bd0d2572367
+[2022-08-02 18:01:08:702 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-02 18:01:08:798 INFO] Game mode: 2 Adventure
+[2022-08-02 18:01:08:798 INFO] Difficulty: 2 NORMAL
+[2022-08-02 18:01:19:089 INFO] Content logging enabled. Writing log to: ContentLog__Tuesday__2022_August_02__18_01_19
+[2022-08-02 18:01:19:180 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-02 18:01:27:815 INFO] IPv4 supported, port: 25565
+[2022-08-02 18:01:27:815 INFO] IPv6 supported, port: 25565
+[2022-08-02 18:01:30:193 INFO] Server started.
+[2022-08-02 18:01:31:271 INFO] IPv4 supported, port: 19132
+[2022-08-02 18:01:31:271 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-03 18:00:57:408 INFO] Starting Server
+[2022-08-03 18:00:57:410 INFO] Version 1.19.1.01
+[2022-08-03 18:00:57:410 INFO] Session ID 1cf4be76-a48f-4c69-a9e2-d43df92fb24e
+[2022-08-03 18:00:57:596 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-03 18:00:57:647 INFO] Game mode: 2 Adventure
+[2022-08-03 18:00:57:647 INFO] Difficulty: 2 NORMAL
+[2022-08-03 18:01:02:261 INFO] Content logging enabled. Writing log to: ContentLog__Wednesday__2022_August_03__18_01_02
+[2022-08-03 18:01:02:270 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-03 18:01:07:578 INFO] IPv4 supported, port: 25565
+[2022-08-03 18:01:07:579 INFO] IPv6 supported, port: 25565
+[2022-08-03 18:01:08:112 INFO] Server started.
+[2022-08-03 18:01:08:172 INFO] IPv4 supported, port: 19132
+[2022-08-03 18:01:08:172 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-04 18:00:50:306 INFO] Starting Server
+[2022-08-04 18:00:50:307 INFO] Version 1.19.1.01
+[2022-08-04 18:00:50:307 INFO] Session ID 696be3ae-1c5e-4367-a777-6741719b1d3b
+[2022-08-04 18:00:50:351 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-04 18:00:50:388 INFO] Game mode: 2 Adventure
+[2022-08-04 18:00:50:388 INFO] Difficulty: 2 NORMAL
+[2022-08-04 18:00:59:439 INFO] Content logging enabled. Writing log to: ContentLog__Thursday__2022_August_04__18_00_59
+[2022-08-04 18:00:59:471 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-04 18:01:04:952 INFO] IPv4 supported, port: 25565
+[2022-08-04 18:01:04:952 INFO] IPv6 supported, port: 25565
+[2022-08-04 18:01:04:723 INFO] Server started.
+[2022-08-04 18:01:04:787 INFO] IPv4 supported, port: 19132
+[2022-08-04 18:01:04:787 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-06 14:15:46:661 INFO] Starting Server
+[2022-08-06 14:15:46:662 INFO] Version 1.19.1.01
+[2022-08-06 14:15:46:662 INFO] Session ID eb134ec8-14d1-4453-aaa4-a1869db21b0a
+[2022-08-06 14:15:46:667 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-06 14:15:46:680 INFO] Game mode: 2 Adventure
+[2022-08-06 14:15:46:680 INFO] Difficulty: 2 NORMAL
+[2022-08-06 14:15:52:100 INFO] Content logging enabled. Writing log to: ContentLog__Saturday__2022_August_06__14_15_52
+[2022-08-06 14:15:52:110 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-06 14:15:57:255 INFO] IPv4 supported, port: 25565
+[2022-08-06 14:15:57:255 INFO] IPv6 supported, port: 25565
+[2022-08-06 14:15:57:809 INFO] Server started.
+[2022-08-06 14:15:58:865 INFO] IPv4 supported, port: 19132
+[2022-08-06 14:15:58:865 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-07 15:01:04:785 INFO] Starting Server
+[2022-08-07 15:01:04:786 INFO] Version 1.19.1.01
+[2022-08-07 15:01:04:786 INFO] Session ID 80d630c1-3a37-4966-9ea5-1ff12e23ca39
+[2022-08-07 15:01:04:793 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-07 15:01:05:846 INFO] Game mode: 2 Adventure
+[2022-08-07 15:01:05:846 INFO] Difficulty: 2 NORMAL
+[2022-08-07 15:01:06:123 INFO] Content logging enabled. Writing log to: ContentLog__Sunday__2022_August_07__15_01_06
+[2022-08-07 15:01:06:147 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-07 15:01:11:891 INFO] IPv4 supported, port: 25565
+[2022-08-07 15:01:11:892 INFO] IPv6 supported, port: 25565
+[2022-08-07 15:01:12:429 INFO] Server started.
+[2022-08-07 15:01:12:494 INFO] IPv4 supported, port: 19132
+[2022-08-07 15:01:12:494 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-08 01:54:12:578 INFO] Starting Server
+[2022-08-08 01:54:12:579 INFO] Version 1.19.1.01
+[2022-08-08 01:54:12:579 INFO] Session ID 26d198f2-ac62-40f3-a6c7-0c120a9f2f7f
+[2022-08-08 01:54:12:587 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-08 01:54:12:647 INFO] Game mode: 2 Adventure
+[2022-08-08 01:54:12:647 INFO] Difficulty: 2 NORMAL
+[2022-08-08 01:54:14:951 INFO] Content logging enabled. Writing log to: ContentLog__Monday__2022_August_08__01_54_14
+[2022-08-08 01:54:14:982 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-08 01:54:17:204 INFO] IPv4 supported, port: 25565
+[2022-08-08 01:54:17:204 INFO] IPv6 supported, port: 25565
+[2022-08-08 01:54:17:819 INFO] Server started.
+[2022-08-08 01:54:18:892 INFO] IPv4 supported, port: 19132
+[2022-08-08 01:54:18:892 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-17 18:01:24:966 INFO] Starting Server
+[2022-08-17 18:01:24:967 INFO] Version 1.19.1.01
+[2022-08-17 18:01:24:967 INFO] Session ID 3ccd8ab7-badc-4828-b6c1-dfa884dc7697
+[2022-08-17 18:01:24:980 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-17 18:01:24:997 INFO] Game mode: 2 Adventure
+[2022-08-17 18:01:24:998 INFO] Difficulty: 2 NORMAL
+[2022-08-17 18:01:26:723 INFO] Content logging enabled. Writing log to: ContentLog__Wednesday__2022_August_17__18_01_26
+[2022-08-17 18:01:26:790 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-17 18:02:20:925 INFO] IPv4 supported, port: 25565
+[2022-08-17 18:02:20:926 INFO] IPv6 supported, port: 25565
+[2022-08-17 18:02:20:757 INFO] Server started.
+[2022-08-17 18:02:20:819 INFO] IPv4 supported, port: 19132
+[2022-08-17 18:02:20:819 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-18 18:01:20:802 INFO] Starting Server
+[2022-08-18 18:01:20:826 INFO] Version 1.19.1.01
+[2022-08-18 18:01:20:827 INFO] Session ID c572fa73-3aac-40b3-9cea-6c6dc88a765d
+[2022-08-18 18:01:21:843 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-18 18:01:21:920 INFO] Game mode: 2 Adventure
+[2022-08-18 18:01:21:920 INFO] Difficulty: 2 NORMAL
+[2022-08-18 18:01:23:183 INFO] Content logging enabled. Writing log to: ContentLog__Thursday__2022_August_18__18_01_23
+[2022-08-18 18:01:23:193 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-18 18:01:28:511 INFO] IPv4 supported, port: 25565
+[2022-08-18 18:01:28:511 INFO] IPv6 supported, port: 25565
+[2022-08-18 18:01:29:618 INFO] Server started.
+[2022-08-18 18:01:29:680 INFO] IPv4 supported, port: 19132
+[2022-08-18 18:01:29:680 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-19 18:01:01:118 INFO] Starting Server
+[2022-08-19 18:01:01:118 INFO] Version 1.19.1.01
+[2022-08-19 18:01:01:119 INFO] Session ID f468559b-77df-4a23-9e4e-fb6e8bd9b8e2
+[2022-08-19 18:01:01:146 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-19 18:01:01:192 INFO] Game mode: 2 Adventure
+[2022-08-19 18:01:01:192 INFO] Difficulty: 2 NORMAL
+[2022-08-19 18:01:02:466 INFO] Content logging enabled. Writing log to: ContentLog__Friday__2022_August_19__18_01_02
+[2022-08-19 18:01:02:491 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-19 18:01:07:016 INFO] IPv4 supported, port: 25565
+[2022-08-19 18:01:07:016 INFO] IPv6 supported, port: 25565
+[2022-08-19 18:01:07:729 INFO] Server started.
+[2022-08-19 18:01:07:800 INFO] IPv4 supported, port: 19132
+[2022-08-19 18:01:07:800 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-20 15:00:59:207 INFO] Starting Server
+[2022-08-20 15:00:59:208 INFO] Version 1.19.1.01
+[2022-08-20 15:00:59:208 INFO] Session ID f112cdca-5746-4880-8b59-a915dadc0827
+[2022-08-20 15:00:59:290 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-20 15:00:59:332 INFO] Game mode: 2 Adventure
+[2022-08-20 15:00:59:333 INFO] Difficulty: 2 NORMAL
+[2022-08-20 15:01:00:706 INFO] Content logging enabled. Writing log to: ContentLog__Saturday__2022_August_20__15_01_00
+[2022-08-20 15:01:00:717 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-20 15:01:04:935 INFO] IPv4 supported, port: 25565
+[2022-08-20 15:01:04:935 INFO] IPv6 supported, port: 25565
+[2022-08-20 15:01:04:647 INFO] Server started.
+[2022-08-20 15:01:04:717 INFO] IPv4 supported, port: 19132
+[2022-08-20 15:01:04:717 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-21 15:01:01:217 INFO] Starting Server
+[2022-08-21 15:01:01:239 INFO] Version 1.19.1.01
+[2022-08-21 15:01:01:240 INFO] Session ID f3a14e81-8db6-4870-9dd7-bfb087a31f57
+[2022-08-21 15:01:01:301 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-21 15:01:01:380 INFO] Game mode: 2 Adventure
+[2022-08-21 15:01:01:380 INFO] Difficulty: 2 NORMAL
+[2022-08-21 15:01:02:735 INFO] Content logging enabled. Writing log to: ContentLog__Sunday__2022_August_21__15_01_02
+[2022-08-21 15:01:02:766 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-21 15:01:07:112 INFO] IPv4 supported, port: 25565
+[2022-08-21 15:01:07:112 INFO] IPv6 supported, port: 25565
+[2022-08-21 15:01:07:733 INFO] Server started.
+[2022-08-21 15:01:07:778 INFO] IPv4 supported, port: 19132
+[2022-08-21 15:01:07:778 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-22 18:01:01:379 INFO] Starting Server
+[2022-08-22 18:01:01:382 INFO] Version 1.19.1.01
+[2022-08-22 18:01:01:382 INFO] Session ID 071e35d7-305b-4fd2-ba95-679eb50c283d
+[2022-08-22 18:01:01:517 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-22 18:01:01:572 INFO] Game mode: 2 Adventure
+[2022-08-22 18:01:01:572 INFO] Difficulty: 2 NORMAL
+[2022-08-22 18:01:03:098 INFO] Content logging enabled. Writing log to: ContentLog__Monday__2022_August_22__18_01_03
+[2022-08-22 18:01:03:109 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-22 18:01:07:323 INFO] IPv4 supported, port: 25565
+[2022-08-22 18:01:07:323 INFO] IPv6 supported, port: 25565
+[2022-08-22 18:01:08:857 INFO] Server started.
+[2022-08-22 18:01:08:917 INFO] IPv4 supported, port: 19132
+[2022-08-22 18:01:08:917 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-23 18:01:00:183 INFO] Starting Server
+[2022-08-23 18:01:00:184 INFO] Version 1.19.1.01
+[2022-08-23 18:01:00:184 INFO] Session ID f56689f0-6bfc-4a01-99a0-16052b3322c0
+[2022-08-23 18:01:00:193 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-23 18:01:00:207 INFO] Game mode: 2 Adventure
+[2022-08-23 18:01:00:208 INFO] Difficulty: 2 NORMAL
+[2022-08-23 18:01:01:448 INFO] Content logging enabled. Writing log to: ContentLog__Tuesday__2022_August_23__18_01_01
+[2022-08-23 18:01:01:457 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-23 18:01:06:277 INFO] IPv4 supported, port: 25565
+[2022-08-23 18:01:06:277 INFO] IPv6 supported, port: 25565
+[2022-08-23 18:01:07:985 INFO] Server started.
+[2022-08-23 18:01:07:049 INFO] IPv4 supported, port: 19132
+[2022-08-23 18:01:07:049 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-24 12:58:23:837 INFO] Starting Server
+[2022-08-24 12:58:23:851 INFO] Version 1.19.1.01
+[2022-08-24 12:58:23:852 INFO] Session ID 59b38750-87af-4516-8614-3443433933a7
+[2022-08-24 12:58:23:871 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-24 12:58:23:984 INFO] Game mode: 2 Adventure
+[2022-08-24 12:58:23:984 INFO] Difficulty: 2 NORMAL
+[2022-08-24 12:58:24:511 INFO] Content logging enabled. Writing log to: ContentLog__Wednesday__2022_August_24__12_58_24
+[2022-08-24 12:58:24:521 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-24 12:58:28:454 INFO] IPv4 supported, port: 25565
+[2022-08-24 12:58:28:455 INFO] IPv6 supported, port: 25565
+[2022-08-24 12:58:29:052 INFO] Server started.
+[2022-08-24 12:58:29:125 INFO] IPv4 supported, port: 19132
+[2022-08-24 12:58:29:125 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-24 18:00:54:772 INFO] Starting Server
+[2022-08-24 18:00:54:773 INFO] Version 1.19.1.01
+[2022-08-24 18:00:54:773 INFO] Session ID 0d7343c3-2c71-458d-83da-cfd3ccf0ba81
+[2022-08-24 18:00:54:806 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-24 18:00:55:864 INFO] Game mode: 2 Adventure
+[2022-08-24 18:00:55:865 INFO] Difficulty: 2 NORMAL
+[2022-08-24 18:00:55:806 INFO] Content logging enabled. Writing log to: ContentLog__Wednesday__2022_August_24__18_00_55
+[2022-08-24 18:00:55:832 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-24 18:00:59:083 INFO] IPv4 supported, port: 25565
+[2022-08-24 18:00:59:084 INFO] IPv6 supported, port: 25565
+[2022-08-24 18:00:59:633 INFO] Server started.
+[2022-08-24 18:00:59:707 INFO] IPv4 supported, port: 19132
+[2022-08-24 18:00:59:707 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-25 18:01:06:596 INFO] Starting Server
+[2022-08-25 18:01:06:597 INFO] Version 1.19.1.01
+[2022-08-25 18:01:06:598 INFO] Session ID 578f6c9c-393e-4cae-b9bf-73410cf5e956
+[2022-08-25 18:01:06:608 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-25 18:01:06:627 INFO] Game mode: 2 Adventure
+[2022-08-25 18:01:06:628 INFO] Difficulty: 2 NORMAL
+[2022-08-25 18:01:08:535 INFO] Content logging enabled. Writing log to: ContentLog__Thursday__2022_August_25__18_01_08
+[2022-08-25 18:01:08:546 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-25 18:01:13:596 INFO] IPv4 supported, port: 25565
+[2022-08-25 18:01:13:596 INFO] IPv6 supported, port: 25565
+[2022-08-25 18:01:14:297 INFO] Server started.
+[2022-08-25 18:01:14:349 INFO] IPv4 supported, port: 19132
+[2022-08-25 18:01:14:349 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-26 18:00:59:605 INFO] Starting Server
+[2022-08-26 18:00:59:607 INFO] Version 1.19.1.01
+[2022-08-26 18:00:59:607 INFO] Session ID 9227d23a-35c6-439b-9c5c-9ae9c19ca29a
+[2022-08-26 18:00:59:615 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-26 18:00:59:634 INFO] Game mode: 2 Adventure
+[2022-08-26 18:00:59:635 INFO] Difficulty: 2 NORMAL
+[2022-08-26 18:01:01:052 INFO] Content logging enabled. Writing log to: ContentLog__Friday__2022_August_26__18_01_01
+[2022-08-26 18:01:01:061 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-26 18:01:04:526 INFO] IPv4 supported, port: 25565
+[2022-08-26 18:01:04:527 INFO] IPv6 supported, port: 25565
+[2022-08-26 18:01:05:067 INFO] Server started.
+[2022-08-26 18:01:05:122 INFO] IPv4 supported, port: 19132
+[2022-08-26 18:01:05:122 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-27 08:40:36:115 INFO] Starting Server
+[2022-08-27 08:40:36:117 INFO] Version 1.19.1.01
+[2022-08-27 08:40:36:117 INFO] Session ID e0a36ecc-5f1c-4250-9338-e482e8dd23e7
+[2022-08-27 08:40:36:253 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-27 08:40:36:825 INFO] Game mode: 2 Adventure
+[2022-08-27 08:40:36:825 INFO] Difficulty: 2 NORMAL
+[2022-08-27 08:40:42:774 INFO] Content logging enabled. Writing log to: ContentLog__Saturday__2022_August_27__08_40_42
+[2022-08-27 08:40:42:784 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-27 08:40:46:712 INFO] IPv4 supported, port: 25565
+[2022-08-27 08:40:46:712 INFO] IPv6 supported, port: 25565
+[2022-08-27 08:40:47:268 INFO] Server started.
+[2022-08-27 08:40:47:355 INFO] IPv4 supported, port: 19132
+[2022-08-27 08:40:47:356 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-28 15:01:00:479 INFO] Starting Server
+[2022-08-28 15:01:00:480 INFO] Version 1.19.1.01
+[2022-08-28 15:01:00:480 INFO] Session ID 3e418b1b-d690-4923-a46e-6e8d4405a574
+[2022-08-28 15:01:00:488 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-28 15:01:00:646 INFO] Game mode: 2 Adventure
+[2022-08-28 15:01:00:646 INFO] Difficulty: 2 NORMAL
+[2022-08-28 15:01:02:001 INFO] Content logging enabled. Writing log to: ContentLog__Sunday__2022_August_28__15_01_02
+[2022-08-28 15:01:02:032 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-28 15:01:06:627 INFO] IPv4 supported, port: 25565
+[2022-08-28 15:01:06:628 INFO] IPv6 supported, port: 25565
+[2022-08-28 15:01:07:313 INFO] Server started.
+[2022-08-28 15:01:07:462 INFO] IPv4 supported, port: 19132
+[2022-08-28 15:01:07:462 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-29 18:01:01:952 INFO] Starting Server
+[2022-08-29 18:01:01:953 INFO] Version 1.19.1.01
+[2022-08-29 18:01:01:953 INFO] Session ID 70f5b166-e79a-48f9-a02d-255df72a680c
+[2022-08-29 18:01:01:983 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-29 18:01:01:245 INFO] Game mode: 2 Adventure
+[2022-08-29 18:01:01:246 INFO] Difficulty: 2 NORMAL
+[2022-08-29 18:01:02:653 INFO] Content logging enabled. Writing log to: ContentLog__Monday__2022_August_29__18_01_02
+[2022-08-29 18:01:02:662 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-29 18:01:07:631 INFO] IPv4 supported, port: 25565
+[2022-08-29 18:01:07:631 INFO] IPv6 supported, port: 25565
+[2022-08-29 18:01:08:385 INFO] Server started.
+[2022-08-29 18:01:08:449 INFO] IPv4 supported, port: 19132
+[2022-08-29 18:01:08:449 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-30 18:00:59:166 INFO] Starting Server
+[2022-08-30 18:00:59:168 INFO] Version 1.19.1.01
+[2022-08-30 18:00:59:168 INFO] Session ID 7509388b-2e11-434b-bc6c-2e16832ef1f4
+[2022-08-30 18:00:59:213 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-30 18:00:59:270 INFO] Game mode: 2 Adventure
+[2022-08-30 18:00:59:270 INFO] Difficulty: 2 NORMAL
+[2022-08-30 18:01:00:664 INFO] Content logging enabled. Writing log to: ContentLog__Tuesday__2022_August_30__18_01_00
+[2022-08-30 18:01:00:673 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-30 18:01:04:309 INFO] IPv4 supported, port: 25565
+[2022-08-30 18:01:04:309 INFO] IPv6 supported, port: 25565
+[2022-08-30 18:01:05:848 INFO] Server started.
+[2022-08-30 18:01:05:919 INFO] IPv4 supported, port: 19132
+[2022-08-30 18:01:05:919 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-31 18:01:01:614 INFO] Starting Server
+[2022-08-31 18:01:01:615 INFO] Version 1.19.1.01
+[2022-08-31 18:01:01:616 INFO] Session ID 346e13d6-9315-40aa-9dda-7fc8304559cb
+[2022-08-31 18:01:01:624 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-31 18:01:01:763 INFO] Game mode: 2 Adventure
+[2022-08-31 18:01:01:763 INFO] Difficulty: 2 NORMAL
+[2022-08-31 18:01:03:028 INFO] Content logging enabled. Writing log to: ContentLog__Wednesday__2022_August_31__18_01_03
+[2022-08-31 18:01:03:037 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-31 18:01:07:204 INFO] IPv4 supported, port: 25565
+[2022-08-31 18:01:07:204 INFO] IPv6 supported, port: 25565
+[2022-08-31 18:01:08:975 INFO] Server started.
+[2022-08-31 18:01:08:049 INFO] IPv4 supported, port: 19132
+[2022-08-31 18:01:08:049 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-08-31 21:15:47:397 INFO] Starting Server
+[2022-08-31 21:15:47:398 INFO] Version 1.19.1.01
+[2022-08-31 21:15:47:398 INFO] Session ID 6f2d28b6-9136-4b4e-ac66-d3b9047dfda6
+[2022-08-31 21:15:47:430 INFO] Level Name: Timothy's UCI Dorm
+[2022-08-31 21:15:47:580 INFO] Game mode: 2 Adventure
+[2022-08-31 21:15:47:580 INFO] Difficulty: 2 NORMAL
+[2022-08-31 21:15:49:154 INFO] Content logging enabled. Writing log to: ContentLog__Wednesday__2022_August_31__21_15_49
+[2022-08-31 21:15:49:163 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-08-31 21:15:52:661 INFO] IPv4 supported, port: 25565
+[2022-08-31 21:15:52:661 INFO] IPv6 supported, port: 25565
+[2022-08-31 21:15:53:209 INFO] Server started.
+[2022-08-31 21:15:53:272 INFO] IPv4 supported, port: 19132
+[2022-08-31 21:15:53:272 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-09-01 18:01:08:939 INFO] Starting Server
+[2022-09-01 18:01:08:940 INFO] Version 1.19.1.01
+[2022-09-01 18:01:08:940 INFO] Session ID 17a6d7c5-ced0-4e9a-bbae-51f8883233e8
+[2022-09-01 18:01:08:947 INFO] Level Name: Timothy's UCI Dorm
+[2022-09-01 18:01:08:984 INFO] Game mode: 2 Adventure
+[2022-09-01 18:01:08:984 INFO] Difficulty: 2 NORMAL
+[2022-09-01 18:01:09:029 INFO] Content logging enabled. Writing log to: ContentLog__Thursday__2022_September_01__18_01_09
+[2022-09-01 18:01:09:043 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-09-01 18:01:26:750 INFO] IPv4 supported, port: 25565
+[2022-09-01 18:01:26:750 INFO] IPv6 supported, port: 25565
+[2022-09-01 18:01:27:599 INFO] Server started.
+[2022-09-01 18:01:27:645 INFO] IPv4 supported, port: 19132
+[2022-09-01 18:01:27:645 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-09-02 18:01:06:541 INFO] Starting Server
+[2022-09-02 18:01:06:568 INFO] Version 1.19.1.01
+[2022-09-02 18:01:06:568 INFO] Session ID 7af810e7-f21a-48fa-94a2-8ff4d05f5af8
+[2022-09-02 18:01:06:586 INFO] Level Name: Timothy's UCI Dorm
+[2022-09-02 18:01:06:679 INFO] Game mode: 2 Adventure
+[2022-09-02 18:01:06:680 INFO] Difficulty: 2 NORMAL
+[2022-09-02 18:01:07:763 INFO] Content logging enabled. Writing log to: ContentLog__Friday__2022_September_02__18_01_07
+[2022-09-02 18:01:07:772 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-09-02 18:01:13:203 INFO] IPv4 supported, port: 25565
+[2022-09-02 18:01:13:204 INFO] IPv6 supported, port: 25565
+[2022-09-02 18:01:13:828 INFO] Server started.
+[2022-09-02 18:01:14:880 INFO] IPv4 supported, port: 19132
+[2022-09-02 18:01:14:880 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-09-03 15:01:01:831 INFO] Starting Server
+[2022-09-03 15:01:01:832 INFO] Version 1.19.1.01
+[2022-09-03 15:01:01:832 INFO] Session ID 5d627a15-d818-4ca8-8a28-87a9a53199f0
+[2022-09-03 15:01:02:842 INFO] Level Name: Timothy's UCI Dorm
+[2022-09-03 15:01:02:892 INFO] Game mode: 2 Adventure
+[2022-09-03 15:01:02:892 INFO] Difficulty: 2 NORMAL
+[2022-09-03 15:01:02:835 INFO] Content logging enabled. Writing log to: ContentLog__Saturday__2022_September_03__15_01_02
+[2022-09-03 15:01:03:847 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-09-03 15:01:06:139 INFO] IPv4 supported, port: 25565
+[2022-09-03 15:01:06:139 INFO] IPv6 supported, port: 25565
+[2022-09-03 15:01:07:857 INFO] Server started.
+[2022-09-03 15:01:07:919 INFO] IPv4 supported, port: 19132
+[2022-09-03 15:01:07:919 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-09-04 15:01:01:875 INFO] Starting Server
+[2022-09-04 15:01:01:921 INFO] Version 1.19.1.01
+[2022-09-04 15:01:01:922 INFO] Session ID a250e6a3-72ef-43d3-8ce1-4ef79ec97659
+[2022-09-04 15:01:01:958 INFO] Level Name: Timothy's UCI Dorm
+[2022-09-04 15:01:01:016 INFO] Game mode: 2 Adventure
+[2022-09-04 15:01:01:016 INFO] Difficulty: 2 NORMAL
+[2022-09-04 15:01:02:379 INFO] Content logging enabled. Writing log to: ContentLog__Sunday__2022_September_04__15_01_02
+[2022-09-04 15:01:02:389 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-09-04 15:01:06:168 INFO] IPv4 supported, port: 25565
+[2022-09-04 15:01:06:169 INFO] IPv6 supported, port: 25565
+[2022-09-04 15:01:06:782 INFO] Server started.
+[2022-09-04 15:01:07:844 INFO] IPv4 supported, port: 19132
+[2022-09-04 15:01:07:844 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-09-05 14:58:02:414 INFO] Starting Server
+[2022-09-05 14:58:02:427 INFO] Version 1.19.1.01
+[2022-09-05 14:58:02:428 INFO] Session ID ce0afcda-ff61-4198-a0fd-b84fac600392
+[2022-09-05 14:58:02:436 INFO] Level Name: Timothy's UCI Dorm
+[2022-09-05 14:58:02:458 INFO] Game mode: 2 Adventure
+[2022-09-05 14:58:02:459 INFO] Difficulty: 2 NORMAL
+[2022-09-05 14:58:04:024 INFO] Content logging enabled. Writing log to: ContentLog__Monday__2022_September_05__14_58_04
+[2022-09-05 14:58:04:033 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-09-05 14:58:07:620 INFO] IPv4 supported, port: 25565
+[2022-09-05 14:58:07:620 INFO] IPv6 supported, port: 25565
+[2022-09-05 14:58:08:155 INFO] Server started.
+[2022-09-05 14:58:08:229 INFO] IPv4 supported, port: 19132
+[2022-09-05 14:58:08:230 INFO] IPv6 supported, port: 19133
+NO LOG FILE! - setting up server logging...
+[2022-09-05 18:35:18:989 INFO] Starting Server
+[2022-09-05 18:35:18:990 INFO] Version 1.19.21.01
+[2022-09-05 18:35:18:990 INFO] Session ID bf176c86-2b4b-402f-8f64-e9f595d2fd98
+[2022-09-05 18:35:18:991 INFO] Level Name: Timothy's UCI Dorm
+[2022-09-05 18:35:18:994 INFO] Game mode: 2 Adventure
+[2022-09-05 18:35:18:994 INFO] Difficulty: 2 NORMAL
+[2022-09-05 18:35:18:170 INFO] Content logging enabled. Writing log to: ContentLog__Monday__2022_September_05__18_35_18
+[2022-09-05 18:35:18:171 INFO] opening worlds/Timothy's UCI Dorm/db
+[2022-09-05 18:35:20:739 INFO] IPv4 supported, port: 25565
+[2022-09-05 18:35:20:739 INFO] IPv6 supported, port: 25565
+[2022-09-05 18:35:20:215 INFO] Server started.
+[2022-09-05 18:35:20:274 INFO] IPv4 supported, port: 19132
+[2022-09-05 18:35:20:275 INFO] IPv6 supported, port: 19133
